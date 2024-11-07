@@ -1,13 +1,15 @@
 export const dados = [
     {
         nome: "Luiz",
-        sobrenome: "Melo",
-        cpf: 8123
+        sobrenome: "Melinho",
+        cpf: 8123,
+        imagelist: ["img1.jpg", "img2.jpg"]
     },
     {   
         nome: "Ariel",
         sobrenome: "Said",
-        cpf: 5324
+        cpf: 5324,
+        imagelist: ["img1.jpg", "img2.jpg", "img3.jpg"]
     },
     {   
         nome: "Nory",
