@@ -1,0 +1,47 @@
+.slider {
+  position: relative;
+  width: 100%;
+  margin: auto;
+  overflow: hidden;
+}
+
+.slider img {
+  width: 800px;
+  display: none;
+}
+
+.slides {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img.displaySlide {
+  display: block;
+}
+
+.slider button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 2rem;
+  padding: 10px 15px;
+  background-color: rgba(0, 0, 0, 0.469);
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.previous {
+  left: 0;
+}
+
+.next {
+  right: 0;
+}
+
+@media (max-width: 768px) {
+  .slider img {
+    width: 100%;
+  }
+}

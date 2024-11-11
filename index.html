@@ -4,8 +4,10 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Menu Responsivo</title>
-    <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/slider.css" />
   </head>
+  
   <body>
     <header>
       <nav class="nav-bar">
@@ -23,7 +25,7 @@
           <button><a href="#">Entrar</a></button>
         </div>
         <div class="mobile-menu-icon">
-          <button onclick="menuShow()">
+          <button id="menu-mobile-button">
             <img class="icon" src="assets/img/menu_white_36dp (1).svg" />
           </button>
         </div>
@@ -41,12 +43,38 @@
       </div>
     </header>
 
-    <div class="conteudo">
-      <h2 class="vernacular"></h2>
-      <h2 class="nome-cientifico"></h2>
-      <p class="cpf"></p>
-    </div>
-    <script type="module" src="assets/js/app.js"></script>
-    <script type="module" src="assets/js/data.js"></script>
+    <main>
+      <!--slider start-->
+      <div class="slider">
+        <div class="slides">
+
+          <!--images begin-->
+          <img class="slide" src="/assets/img/fotosplantas/leandra.jpg" alt="" />
+          <img class="slide" src="/assets/img/fotosplantas/melastomacaceae.jpg" alt="" />
+          <img class="slide" src="/assets/img/fotosplantas/melastomataceae2.jpg" alt="" />
+          <img class="slide" src="/assets/img/fotosplantas/mela3.jpg" alt="" />
+          <!--images end-->
+
+        </div>
+        
+        <button class="prev">&#10094</button>
+        <button class="next">&#10095</button>
+
+      </div>
+      <!--slider end-->
+
+      <!--conteudo start-->
+      <div class="conteudo">
+        <h2 class="vernacular"></h2>
+        <h2 class="nome-cientifico"></h2>
+        <p class="familia"></p>
+      </div>
+      <!--conteudo end-->
+
+    </main>
+
+    <script type="module" src="scripts/data.js"></script>
+    <script type="module" src="scripts/slider.js"></script>
+    <script type="module" src="scripts/app.js"></script>
   </body>
 </html>
