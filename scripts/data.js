@@ -1,7 +1,7 @@
 export const dados = [
   {
     id: 1,
-    vernacular: "Açaizeiro",
+    vernacular: "Açaí",
     nomecientifico: "Euterpe precatoria",
     autor: "Mart.",
     familia: "Arecaceae",
