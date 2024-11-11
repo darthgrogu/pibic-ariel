@@ -17,17 +17,19 @@ export const dados = [
   },
   {
     id: 2,
-    vernacular: "Fava",
-    nomecientifico: "Parkia igneiflora",
-    autor: "Ducke",
+    vernacular: "Faveira-Benguê",
+    nomecientifico: "Parkia multijuga",
+    autor: "Benth.",
     familia: "Fabaceae",
     codigo: "D1245",
     data_plantio: "05/04/2000",
     coletas: "HOPKINS, MJG 110",
-    descricao: "Sem descrição",
-    distribuicao: "Sem descrição",
-    distribuicao_mapa: "mapa1.jpg",
-    imagelist: ["acai1.jpg", "acai2.jpg", "acai3.jpg", "acai4.jpg"],
+    descricao:
+      "Árvore perenifólia. As árvores maiores atingem dimensões próximas de 40 m de altura e 100 cm de DAP (diâmetro à altura do peito, medido a 1,30 m do solo) na idade adulta. Tronco reto, quase cilíndrico, às vezes oco na base. O fuste mede até 15 m de comprimento. As folhas são compostas bipinadas, dispostas em espiral, medindo até 50 cm de comprimento; as pinas medem de 10 cm a 15 cm de comprimento e são alternas; o pecíolo é pubérulo quando jovem, engrossado na base, com uma glândula elíptica conspícua na haste; a raque apresenta uma glândula circular nos entrenós; os folíolos medem de 8 mm a 10 mm de comprimento por 2,5 mm a 3 mm de largura. As inflorescências são dispostas em capítulos globulares eretos sobre a folhagem, com botões cobertos por brácteas rômbicas.",
+    distribuicao:
+      "Parkia multijuga ocorre de forma natural, na Colômbia, no Equador e no Peru. No Brasil, essa espécie ocorre nas seguintes Estados: Acre, Amazonas, Maranhão, Mato Grosso, Pará, e Rondônia.",
+    distribuicao_mapa: "ipe_mapa.jpg",
+    imagelist: ["ipe1.jpg", "ipe2.jpg", "ipe3.jpg", "ipe4.jpg"],
   },
   {
     id: 3,
@@ -38,9 +40,11 @@ export const dados = [
     codigo: "D23674",
     data_plantio: "03/11/1982",
     coletas: "MELO, LHS 123; MELO, LHS 124",
-    descricao: "Sem descrição",
-    distribuicao: "Sem descrição",
-    distribuicao_mapa: "mapa1.jpg",
-    imagelist: ["acai1.jpg", "acai2.jpg", "acai3.jpg", "acai4.jpg"],
+    descricao:
+      "Árvore perenifólia a decídua. As árvores maiores atingem dimensões próximas de 70 m de altura e 3,50 m de DAP (diâmetro à altura do peito, medido a 1,30 m do solo), na idade adulta. Uma árvore derrubada, no sul do Pará, forneceu 25 m3 de madeira. Tronco: é ereto, levemente acanalado e com raízes tabulares na base. O fuste é 2 Mogno - Swietenia macrophylla retilíneo e cilíndrico, e sem ramos até 27 m de comprimento. Apresenta expansões laterais bem formadas na base do tronco, de 2 m a 3 m de comprimento, raízes tabulares ou sapopemas. As folhas são compostas, arranjadas em espiral nos ramos, paripinadas, medindo de 25 a cm 45 cm de comprimento. Apresenta 8 a 12 folíolos que medem de 7 cm a 15 cm de comprimento por 3,5 cm a 6 cm de largura.",
+    distribuicao:
+      "Na Amazônia Brasileira, a área de ocorrência natural do mogno é estimada em 1.518.964 km2 (TEREZO, 2002), com abrangência em sete Unidades da Federação: Acre, Amazonas, Bahia, Goiás, Maranhão, Mato Grosso, Pará, Rondônia, Tocantins.",
+    distribuicao_mapa: "mogno_mapa.jpg",
+    imagelist: ["mogno1.jpg", "mogno2.jpg", "mogno3.jpg", "mogno4.jpg"],
   },
 ];
