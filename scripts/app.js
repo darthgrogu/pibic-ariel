@@ -30,6 +30,9 @@ function fillPageData() {
   let nomecientifico = document.querySelector(".nome-cientifico");
   let autor = document.querySelector(".autor");
   let familia = document.querySelector(".familia");
+  let codigo = document.querySelector(".codigo-indv");
+  let data_plantio = document.querySelector(".data-plantio-indv");
+  let coletas = document.querySelector(".coletas-indv");
   let descricao = document.querySelector(".descricao");
   let distribuicao = document.querySelector(".distribuicao");
 
@@ -40,6 +43,10 @@ function fillPageData() {
   nomecientifico.textContent = result.nomecientifico;
   autor.textContent = result.autor;
   familia.textContent = result.familia;
+  codigo.textContent = "Código: " + result.codigo;
+  data_plantio.textContent = "Data de plantio: " + result.data_plantio;
+  coletas.textContent = "Coletas: " + result.coletas;
+
   descricao.textContent = result.descricao;
   distribuicao.textContent = result.distribuicao;
 
