@@ -7,6 +7,7 @@
 
 .slider img {
   width: 800px;
+  height: 500px;
   display: none;
 }
 
@@ -14,6 +15,12 @@
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.slide {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
 }
 
 img.displaySlide {
