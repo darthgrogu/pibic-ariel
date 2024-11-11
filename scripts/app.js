@@ -28,6 +28,7 @@ function fillPageData() {
 
   let vernacular = document.querySelector(".vernacular");
   let nomecientifico = document.querySelector(".nome-cientifico");
+  let autor = document.querySelector(".autor");
   let familia = document.querySelector(".familia");
 
   const result = dados.find((item) => item.id === id);
@@ -35,6 +36,7 @@ function fillPageData() {
 
   vernacular.textContent = result.vernacular;
   nomecientifico.textContent = result.nomecientifico;
+  autor.textContent = result.autor;
   familia.textContent = result.familia;
 
   let conteudo = document.querySelector(".conteudo");
