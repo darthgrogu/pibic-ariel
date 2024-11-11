@@ -30,6 +30,8 @@ function fillPageData() {
   let nomecientifico = document.querySelector(".nome-cientifico");
   let autor = document.querySelector(".autor");
   let familia = document.querySelector(".familia");
+  let descricao = document.querySelector(".descricao");
+  let distribuicao = document.querySelector(".distribuicao");
 
   const result = dados.find((item) => item.id === id);
   console.log(result);
@@ -38,6 +40,8 @@ function fillPageData() {
   nomecientifico.textContent = result.nomecientifico;
   autor.textContent = result.autor;
   familia.textContent = result.familia;
+  descricao.textContent = result.descricao;
+  distribuicao.textContent = result.distribuicao;
 
   let conteudo = document.querySelector(".conteudo");
 }

@@ -129,3 +129,9 @@ header {
   font-style: italic;
   padding-right: 5px;
 }
+
+.descricao-titulo,
+.distribuicao-titulo {
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
