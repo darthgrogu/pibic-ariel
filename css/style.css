@@ -117,17 +117,15 @@ header {
   }
 }
 
-.conteudo {
-  .vernacular {
-    color: darkgreen;
-    padding: 10px 0px 10px 0px;
-  }
-  .fullname {
-    display: flex;
+.vernacular {
+  color: darkgreen;
+  padding: 10px 0px 10px 0px;
+}
 
-    .nome-cientifico {
-      font-style: italic;
-      padding-right: 5px;
-    }
-  }
+.fullname {
+  display: flex;
+}
+.nome-cientifico {
+  font-style: italic;
+  padding-right: 5px;
 }
