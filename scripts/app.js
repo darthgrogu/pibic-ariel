@@ -16,10 +16,19 @@ function menuShow() {
     menuimg.src = "./assets/img/menu_white_36dp.svg";
   }
 }
+function buscarPlanta(){
+  console.log("Funcionou!");
+}
 
 function initEventListeners() {
   const botao = document.getElementById("menu-mobile-button");
   botao.addEventListener("click", menuShow);
+
+  const botaoentrar = document.querySelector(".entrar");
+  botaoentrar.addEventListener("click", buscarPlanta);
+
+  const botaoentrar2 = document.querySelector(".entrar2");
+  botaoentrar2.addEventListener("click", buscarPlanta);
 }
 
 function fillPageData() {
