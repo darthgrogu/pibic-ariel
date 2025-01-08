@@ -6,7 +6,7 @@ export const dados = [
     autor: "Mart.",
     familia: "Arecaceae",
     codigo: "D23674",
-    data_plantio: "12/10/2005",
+    data_plantio: "12/10/2006",
     coletas: "MELO, LHS 452; HOPKINS, MJG 123",
     descricao:
       "E. precatoria é monocaule de 3 a 23m de altura e de 4 a 23cm de diâmetro, ou raramente cespitoso, palmito fino e liso no topo; tem um cone de raízes visíveis; folhas com pinas planas, de 1 a 3cm de largura, pêndulas ou horizontais; frutos globosos, de cor púrpura-negra quando maduros, com resíduo estigmático lateral; sementes com endosperma homogêneo (Lorenzi et al., 2004; Ferreira, 2005)",
