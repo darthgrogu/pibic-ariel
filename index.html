@@ -1,54 +1,90 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Menu Responsivo</title>
-        <link rel="stylesheet" href="assets/css/style.css">
-    </head>
-    <body>
-        <header>
-
-            <nav class="nav-bar">
-                <div class="logo">
-                    <h1>E-rbário</h1>
-                </div>
-                <div class="nav-list">
-                    <ul>
-                        <li class="nav-item"><a href="#" class="nav-link">Início</a></li>
-                        <li class="nav-item"><a href="#" class="nav-link">Projetos</a></li>
-                        <li class="nav-item"><a href="#" class="nav-link">Sobre</a></li>
-                    </ul>
-                </div>
-                <div class="login-button">
-                    <button><a href="#">Entrar</a></button>
-                </div>
-                <div class="mobile-menu-icon">
-                    <button onclick="menuShow()"><img class="icon" src="assets/img/menu_white_36dp (1).svg"> </button>
-                </div>
-            </nav>
-            <div class="mobile-menu">
-                <ul>
-                    <li class="nav-item"><a href="#" class="nav-link">Início</a></li>
-                    <li class="nav-item"><a href="#" class="nav-link">Projetos</a></li>
-                    <li class="nav-item"><a href="#" class="nav-link">Sobre</a></li>
-                </ul>
-                
-                <div class="login-button">
-                    <button><a href="#">Entrar</a></button>
-                </div>
-            </div>
-
-        </header>
-
-        <div class="conteudo">
-            <h2 class="vernacular"></h2>
-            <h2 class="nome-cientifico"></h2>
-            <p class="cpf"></p>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bosque da Ciência</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/slider.css" />
+  </head>
+  
+  <body>
+    <header>
+      <nav class="nav-bar">
+        <div class="logo">
+          <h1>INPA</h1>
         </div>
-        <script type="module" src="assets/js/script.js"></script>
-        <script type="module" src="assets/js/teste.js"></script>
-        <script type="module" src="assets/js/data.js"></script>
+        <div class="nav-list">
+          <ul>
+            <li class="nav-item"><a href="#" class="nav-link">Início</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Projetos</a></li>
+            <li class="nav-item"><a href="#" class="nav-link">Sobre</a></li>
+          </ul>
+        </div>
+        <div class="login-button">
+          <button><a href="#">Entrar</a></button>
+        </div>
+        <div class="mobile-menu-icon">
+          <button id="menu-mobile-button">
+            <img class="icon" src="assets/img/menu_white_36dp (1).svg" />
+          </button>
+        </div>
+      </nav>
+      <div class="mobile-menu">
+        <ul>
+          <li class="nav-item"><a href="#" class="nav-link">Início</a></li>
+          <li class="nav-item"><a href="#" class="nav-link">Projetos</a></li>
+          <li class="nav-item"><a href="#" class="nav-link">Sobre</a></li>
+        </ul>
+
+        <div class="login-button">
+          <button><a href="#">Entrar</a></button>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <!--slider start-->
+      <div class="slider">
+        <div class="slides">
+
+        </div>
         
-    </body>
+        <button class="prev">&#10094</button>
+        <button class="next">&#10095</button>
+
+      </div>
+      <!--slider end-->
+
+      <!--conteudo start-->
+      <div class="conteudo">
+        <h2 class="vernacular"></h2>
+        <div class="fullname">
+            <h2 class="nome-cientifico"></h2>
+            <h2 class="autor"></h2>
+        </div>
+        <p class="familia"></p>
+        <h3 class="individuo-info-titulo">Informações do Indivíduo</h3>
+        <div class="individuo-info">
+            <p class="codigo-indv"></p>
+            <p class="data-plantio-indv"></p>
+            <p class="coletas-indv"></p>
+        </div>
+        <h3 class="descricao-titulo">Descrição Morfológica</h3>
+        <p class="descricao"></p>
+        <h3 class="distribuicao-titulo">Distribuição Geográfica</h3>
+        <p class="distribuicao"></p>
+        <div class="mapa-container">
+            
+        </div>
+        
+      </div>
+      <!--conteudo end-->
+
+    </main>
+
+    <script type="module" src="scripts/data.js"></script>
+    <script type="module" src="scripts/app.js"></script>
+    <script type="module" src="scripts/slider.js"></script>
+  </body>
 </html>
