@@ -1,7 +1,7 @@
 import { dados } from "./data.js";
 
 function searchPlant() {
-    const query = document.getElementById("searchBox").value.trim().toLowerCase();
+    
     const resultDiv = document.getElementById("result");
     resultDiv.innerHTML = "";
     
@@ -34,5 +34,3 @@ function searchPlant() {
         resultDiv.innerHTML = "Nenhuma planta encontrada";
     }
 }
-
-window.searchPlant = searchPlant;
