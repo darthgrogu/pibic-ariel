@@ -6,6 +6,7 @@
     <title>Bosque da Ciência</title>
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/slider.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
   
   <body>
@@ -14,6 +15,7 @@
         <div class="logo">
           <h1>INPA</h1>
         </div>
+
         <div class="nav-list">
           <ul>
             <li class="nav-item"><a href="#" class="nav-link">Início</a></li>
@@ -21,15 +23,25 @@
             <li class="nav-item"><a href="#" class="nav-link">Sobre</a></li>
           </ul>
         </div>
-        <div class="login-button">
-          <button class="entrar"><a href="#">Entrar</a></button>
+
+        <div class="search-container">
+          <input type="text" id="search-box" placeholder="Pesquisar..." />
+          <button id="search-button" onclick="searchPlant()"><i class="fa fa-search"></i></button>
         </div>
+
+        
         <div class="mobile-menu-icon">
           <button id="menu-mobile-button">
             <img class="icon" src="assets/img/menu_white_36dp (1).svg" />
           </button>
         </div>
       </nav>
+      
+      <div class="mobile-search-container">
+        <input type="text" id="mobile-search-box" placeholder="Pesquisar..." />
+        <button id="mobile-search-button" onclick="searchPlant()"><i class="fa fa-search"></i></button>
+      </div>
+      
       <div class="mobile-menu">
         <ul>
           <li class="nav-item"><a href="#" class="nav-link">Home</a></li>
@@ -40,7 +52,8 @@
         <div class="login-button">
           <button class="entrar2  "><a href="#">Entrar</a></button>
         </div>
-      </div>
+      </div> 
+
     </header>
 
     <main>

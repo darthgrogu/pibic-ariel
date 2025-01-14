@@ -77,7 +77,31 @@ header {
   display: none;
 }
 
-@media (max-width: 730px) {
+.vernacular {
+  color: darkgreen;
+  padding: 10px 0px 10px 0px;
+}
+
+.fullname {
+  display: flex;
+}
+.nome-cientifico {
+  font-style: italic;
+  padding-right: 5px;
+}
+
+.individuo-info-titulo,
+.descricao-titulo,
+.distribuicao-titulo {
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.mapa-distribuicao {
+  padding-top: 10px;
+}
+
+@media (max-width: 1027px) {
   .nav-bar {
     padding: 0.3rem 4rem;
   }
@@ -117,26 +141,79 @@ header {
   }
 }
 
-.vernacular {
-  color: darkgreen;
-  padding: 10px 0px 10px 0px;
-}
-
-.fullname {
+/* Estilos gerais da caixa de pesquisa */
+.search-container {
   display: flex;
+  align-items: center; /* Alinha verticalmente */
+  position: relative; /* Para posicionar a lupa */
 }
-.nome-cientifico {
-  font-style: italic;
-  padding-right: 5px;
-}
-
-.individuo-info-titulo,
-.descricao-titulo,
-.distribuicao-titulo {
-  padding-top: 10px;
-  padding-bottom: 5px;
+.mobile-search-container {
+  display: flex;
+  padding: 0px 10px 0px 10px;
 }
 
-.mapa-distribuicao {
-  padding-top: 10px;
+#search-box,
+#mobile-search-box {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+#search-box {
+  width: 400px; /* Largura inicial */
+}
+
+#mobile-search-box {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+#search-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+  position: absolute;
+  right: 10px; /* Posiciona o botão à direita */
+}
+
+#mobile-search-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  position: absolute;
+  padding: 10px;
+  right: 10px; /* Posiciona o botão à direita */
+}
+
+/* Estilos para telas menores (mobile) */
+@media (max-width: 1027px) {
+  #search-box {
+    width: 0; /* Esconde a caixa de texto */
+    padding: 0;
+    border: none;
+    transition: width 0.3s ease; /* Adiciona uma transição suave */
+  }
+
+  #search-button {
+    display: none; /* Remove o posicionamento absoluto */
+  }
+}
+
+@media (min-width: 1027px) {
+  #mobile-search-box {
+    width: 0; /* Esconde a caixa de texto */
+    padding: 0;
+    border: none;
+    transition: width 0.3s ease; /* Adiciona uma transição suave */
+  }
+
+  #mobile-search-button {
+    display: none; /* Remove o posicionamento absoluto */
+  }
+
+  .mobile-search-container {
+    padding: 0;
+    display: none;
+  }
 }

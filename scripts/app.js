@@ -9,7 +9,6 @@ function menuShow() {
   let menuimg = document.querySelector(".icon");
 
   if (!menuMobile.classList.contains("open")) {
-    console.log("entrei aqui");
     menuMobile.classList.add("open");
     menuimg.src = "./assets/img/close_white_36dp (1).svg";
   } else {
@@ -23,23 +22,30 @@ function initEventListeners() {
   botao.addEventListener("click", menuShow);
 }
 
-function searchPlant(){
+function searchPlant() {
   console.log("entrou em buscarPlanta");
   //const urlParams = new URLSearchParams(window.location.search);
   //const texttosearch = parseInt(urlParams.get("texttosearch"));
-  
-  const query = document.getElementById("searchBox").value.trim().toLowerCase();
-  console.log(query);
 
-  const result = dados.find((item) => item.id === parseInt(query) || item.vernacular === query || item.nomecientifico === query);
-  
+  var searchTerm;
+  if (window.innerWidth > 1027) {
+    searchTerm = document.getElementById("search-box").value.trim();
+  } else {
+    searchTerm = document.getElementById("mobile-search-box").value.trim();
+  }
+
+  const result = dados.find(
+    (item) =>
+      item.id === parseInt(searchTerm) ||
+      item.vernacular === searchTerm ||
+      item.nomecientifico === searchTerm
+  );
+
   console.log(result);
   fillPageData(result);
 }
 
-
 function fillPageData(planta) {
-  
   console.log("entrou no fillPageData");
 
   let vernacular = document.querySelector(".vernacular");
