@@ -3,7 +3,6 @@ import { dados } from "./data.js";
 initEventListeners();
 
 window.searchPlant = searchPlant;
-window.abrirNoMapa = abrirNoMapa;
 
 function menuShow() {
   let menuMobile = document.querySelector(".mobile-menu");
@@ -60,16 +59,13 @@ function searchPlant() {
   fillPageData(result);
 }
 
-function abrirNoMapa() {
-  // Construir a URL do Google Maps com um único ponto
+function criarLinkMapa(latitude, longitude) {
   var url =
     "https://www.google.com/maps/search/?api=1&query=" +
-    -3.0975 +
+    latitude +
     "," +
-    -59.986667;
-
-  // Abrir a URL no aplicativo de mapas
-  window.open(url, "_blank");
+    longitude;
+  return '<a href="' + url + '" target="_blank">Abrir no Mapa</a>';
 }
 
 function createOpenStreetMap(arvoreBuscada) {
@@ -104,7 +100,8 @@ function adicionarMarcadores(arvoreBuscada, map) {
 
       marker.setIcon(icone);
       marker.bindPopup(
-        `<b>${arvore.nomecientifico}</b><br>Código: ${arvore.codigo}`
+        `<b>${arvore.nomecientifico}</b><br>Código: ${arvore.codigo}<br>` +
+          criarLinkMapa(arvore.lat, arvore.long)
       );
     }
   });
@@ -120,8 +117,6 @@ function fillPageData(planta) {
   let codigo = document.querySelector(".codigo-indv");
   let data_plantio = document.querySelector(".data-plantio-indv");
   let coletas = document.querySelector(".coletas-indv");
-  let descricao = document.querySelector(".descricao");
-  let distribuicao = document.querySelector(".distribuicao");
 
   loadSlider(planta.imagelist);
 
@@ -132,9 +127,6 @@ function fillPageData(planta) {
   codigo.textContent = "Código: " + planta.codigo;
   data_plantio.textContent = "Data de plantio: " + planta.data_plantio;
   coletas.textContent = "Coletas: " + planta.coletas;
-
-  descricao.textContent = planta.descricao;
-  distribuicao.textContent = planta.distribuicao;
 
   createOpenStreetMap(planta);
 }
