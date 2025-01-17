@@ -3,6 +3,7 @@ import { dados } from "./data.js";
 initEventListeners();
 
 window.searchPlant = searchPlant;
+window.abrirNoMapa = abrirNoMapa;
 
 function menuShow() {
   let menuMobile = document.querySelector(".mobile-menu");
@@ -62,7 +63,7 @@ function searchPlant() {
 function abrirNoMapa() {
   var coordenadas = "";
   dados.forEach(function (arvore) {
-    if (arvore.nomecientifico === arvoreBuscada.nomecientifico) {
+    if (arvore.nomecientifico === "Euterpe precatoria") {
       coordenadas += arvore.lat + "," + arvore.long + "+";
     }
   });
@@ -73,6 +74,7 @@ function abrirNoMapa() {
   // Construir a URL do Geo URI scheme
   var url = "geo:0,0?q=" + coordenadas;
 
+  console.log(url);
   // Abrir a URL em uma nova janela/aba
   window.open(url, "_blank");
 }
