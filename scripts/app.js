@@ -61,23 +61,19 @@ function searchPlant() {
 }
 
 function abrirNoMapa() {
-  var coordenadas = "";
+  var markers = "";
   dados.forEach(function (arvore) {
     if (arvore.nomecientifico === "Euterpe precatoria") {
-      // Codificar cada coordenada individualmente
-      var latCodificada = encodeURIComponent(arvore.lat);
-      var longCodificada = encodeURIComponent(arvore.long);
-      coordenadas += latCodificada + "," + longCodificada + "+";
+      markers += arvore.lat + "," + arvore.long + "+";
     }
   });
 
   // Remover o último "+" da string
-  coordenadas = coordenadas.slice(0, -1);
+  markers = markers.slice(0, -1);
 
-  // Construir a URL do Geo URI scheme
-  var url = "geo:0,0?q=" + coordenadas;
+  // Construir a URL com marcadores
+  var url = "https://www.google.com/maps/search/?api=1&query=" + markers;
 
-  console.log(url);
   // Abrir a URL em uma nova janela/aba
   window.open(url, "_blank");
 }
