@@ -20,6 +20,20 @@ function menuShow() {
 function initEventListeners() {
   const botao = document.getElementById("menu-mobile-button");
   botao.addEventListener("click", menuShow);
+
+  const searchBox = document.getElementById("search-box");
+  window.addEventListener("resize", function () {
+    if (window.innerWidth <= 1027) {
+      searchBox.value = "";
+    }
+  });
+
+  const mobileSearchBox = document.getElementById("mobile-search-box");
+  window.addEventListener("resize", function () {
+    if (window.innerWidth > 1027) {
+      mobileSearchBox.value = "";
+    }
+  });
 }
 
 function searchPlant() {
@@ -43,6 +57,62 @@ function searchPlant() {
 
   console.log(result);
   fillPageData(result);
+}
+
+function abrirNoMapa() {
+  var coordenadas = "";
+  dados.forEach(function (arvore) {
+    if (arvore.nomecientifico === arvoreBuscada.nomecientifico) {
+      coordenadas += arvore.lat + "," + arvore.long + "+";
+    }
+  });
+
+  // Remover o último "+" da string
+  coordenadas = coordenadas.slice(0, -1);
+
+  // Construir a URL do Geo URI scheme
+  var url = "geo:0,0?q=" + coordenadas;
+
+  // Abrir a URL em uma nova janela/aba
+  window.open(url, "_blank");
+}
+
+function createOpenStreetMap(arvoreBuscada) {
+  //Centraliza o mapa no bosque da ciencia
+  var map = L.map("map-container").setView([-3.096667, -59.986389], 17);
+
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution:
+      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  }).addTo(map);
+
+  adicionarMarcadores(arvoreBuscada, map);
+}
+function adicionarMarcadores(arvoreBuscada, map) {
+  dados.forEach((arvore) => {
+    if (arvore.nomecientifico === arvoreBuscada.nomecientifico) {
+      var marker = L.marker([arvore.lat, arvore.long]).addTo(map);
+
+      // Define a cor do marcador (vermelho para a árvore buscada, azul para outras)
+      var cor = arvore.id === arvoreBuscada.id ? "red" : "blue";
+
+      // Cria o ícone do marcador com a cor definida
+      var icone = L.icon({
+        iconUrl: `https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-${cor}.png`,
+        shadowUrl:
+          "https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png",
+        iconSize: [25, 41],
+        iconAnchor: [12, 41],
+        popupAnchor: [1, -34],
+        shadowSize: [41, 41],
+      });
+
+      marker.setIcon(icone);
+      marker.bindPopup(
+        `<b>${arvore.nomecientifico}</b><br>Código: ${arvore.codigo}`
+      );
+    }
+  });
 }
 
 function fillPageData(planta) {
@@ -71,14 +141,5 @@ function fillPageData(planta) {
   descricao.textContent = planta.descricao;
   distribuicao.textContent = planta.distribuicao;
 
-  const mapa_container = document.querySelector(".mapa-container");
-  mapa_container.innerHTML = "";
-  const fragment = document.createDocumentFragment();
-  const img = document.createElement("img");
-
-  img.setAttribute("src", planta.distribuicao_mapa);
-  img.classList.add("mapa-distribuicao");
-  fragment.appendChild(img);
-
-  mapa_container.appendChild(fragment);
+  createOpenStreetMap(planta);
 }

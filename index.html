@@ -7,6 +7,9 @@
     <link rel="stylesheet" href="css/style.css" />
     <link rel="stylesheet" href="css/slider.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
   </head>
   
   <body>
@@ -87,13 +90,9 @@
         <p class="descricao"></p>
         <h3 class="distribuicao-titulo">Distribuição Geográfica</h3>
         <p class="distribuicao"></p>
-        <div class="mapa-container">
+    
+        <div id="map-container" class="mapa-container">
             
-        </div>
-
-        <div>
-          <input type="text" id="searchBox" placeholder="Pesquisar Indivíduo">
-          <button onclick="searchPlant()">Pesquisar</button>
         </div>
         
       </div>

@@ -101,6 +101,14 @@ header {
   padding-top: 10px;
 }
 
+.mapa-container {
+  width: 100%px;
+  height: 400px;
+  display: flex;
+  margin: 5px;
+  border-radius: 10px;
+}
+
 @media (max-width: 1027px) {
   .nav-bar {
     padding: 0.3rem 4rem;
