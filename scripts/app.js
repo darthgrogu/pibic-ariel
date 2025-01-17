@@ -64,7 +64,10 @@ function abrirNoMapa() {
   var coordenadas = "";
   dados.forEach(function (arvore) {
     if (arvore.nomecientifico === "Euterpe precatoria") {
-      coordenadas += arvore.lat + "," + arvore.long + "+";
+      // Codificar cada coordenada individualmente
+      var latCodificada = encodeURIComponent(arvore.lat);
+      var longCodificada = encodeURIComponent(arvore.long);
+      coordenadas += latCodificada + "," + longCodificada + "+";
     }
   });
 
