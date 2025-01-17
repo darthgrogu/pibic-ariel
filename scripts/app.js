@@ -61,20 +61,14 @@ function searchPlant() {
 }
 
 function abrirNoMapa() {
-  var places = "";
-  dados.forEach(function (arvore) {
-    if (arvore.nomecientifico === "Euterpe precatoria") {
-      places += "place/" + arvore.lat + "," + arvore.long + "/";
-    }
-  });
+  // Construir a URL do Google Maps com um único ponto
+  var url =
+    "https://www.google.com/maps/search/?api=1&query=" +
+    -3.0975 +
+    "," +
+    -59.986667;
 
-  // Remover a última barra da string
-  places = places.slice(0, -1);
-
-  // Construir a URL da API do Google Maps Places
-  var url = "https://www.google.com/maps/search/?api=1&query=" + places;
-
-  // Abrir a URL em uma nova janela/aba
+  // Abrir a URL no aplicativo de mapas
   window.open(url, "_blank");
 }
 

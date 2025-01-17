@@ -83,9 +83,7 @@ export const dados = [
       "E. precatoria está distribuída apenas na região Norte, ocupando, predominantemente, o lado Ocidental, nos estados do Amazonas, Acre, Rondônia e Pará, com a variedade longevaginata estando restrita ao Acre, na Serra do Divisor, que faz fronteira com o Peru (Mapa 2) (Henderson; Galeano, 1996; Lorenzi et al., 2004; Flora do Brasil, 2018; Vianna, 2020).",
     distribuicao_mapa: "./assets/img/mapas/acai_mapa.png",
     imagelist: [
-      "./assets/img/fotosplantas/acai1.jpg",
       "./assets/img/fotosplantas/acai2.jpg",
-      "./assets/img/fotosplantas/acai3.jpg",
       "./assets/img/fotosplantas/acai4.jpg",
     ],
     lat: -3.097778,
@@ -108,8 +106,6 @@ export const dados = [
     imagelist: [
       "./assets/img/fotosplantas/acai1.jpg",
       "./assets/img/fotosplantas/acai2.jpg",
-      "./assets/img/fotosplantas/acai3.jpg",
-      "./assets/img/fotosplantas/acai4.jpg",
     ],
     lat: -3.096944,
     long: -59.985833,
@@ -129,8 +125,6 @@ export const dados = [
       "E. precatoria está distribuída apenas na região Norte, ocupando, predominantemente, o lado Ocidental, nos estados do Amazonas, Acre, Rondônia e Pará, com a variedade longevaginata estando restrita ao Acre, na Serra do Divisor, que faz fronteira com o Peru (Mapa 2) (Henderson; Galeano, 1996; Lorenzi et al., 2004; Flora do Brasil, 2018; Vianna, 2020).",
     distribuicao_mapa: "./assets/img/mapas/acai_mapa.png",
     imagelist: [
-      "./assets/img/fotosplantas/acai1.jpg",
-      "./assets/img/fotosplantas/acai2.jpg",
       "./assets/img/fotosplantas/acai3.jpg",
       "./assets/img/fotosplantas/acai4.jpg",
     ],
