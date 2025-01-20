@@ -16,10 +16,13 @@ function menuShow() {
     menuimg.src = "./assets/img/menu_white_36dp.svg";
   }
 }
-
 function initEventListeners() {
   const botao = document.getElementById("menu-mobile-button");
   botao.addEventListener("click", menuShow);
+  const treepagebutton = document.getElementById("tree-page-button");
+  treepagebutton.addEventListener("click", mostrarTelaArvore);
+  const homepagebutton = document.getElementById("home-page-button");
+  homepagebutton.addEventListener("click", mostrarHomepage);
 
   const searchBox = document.getElementById("search-box");
   window.addEventListener("resize", function () {
@@ -27,7 +30,6 @@ function initEventListeners() {
       searchBox.value = "";
     }
   });
-
   const mobileSearchBox = document.getElementById("mobile-search-box");
   window.addEventListener("resize", function () {
     if (window.innerWidth > 1027) {
@@ -35,7 +37,6 @@ function initEventListeners() {
     }
   });
 }
-
 function searchPlant() {
   console.log("entrou em buscarPlanta");
   //const urlParams = new URLSearchParams(window.location.search);
@@ -58,7 +59,6 @@ function searchPlant() {
   console.log(result);
   fillPageData(result);
 }
-
 function criarLinkMapa(latitude, longitude) {
   var url =
     "https://www.google.com/maps/search/?api=1&query=" +
@@ -67,7 +67,6 @@ function criarLinkMapa(latitude, longitude) {
     longitude;
   return '<a href="' + url + '" target="_blank">Abrir no Mapa</a>';
 }
-
 function createOpenStreetMap(arvoreBuscada) {
   //Centraliza o mapa no bosque da ciencia
   var map = L.map("map-container").setView([-3.096667, -59.986389], 17);
@@ -106,7 +105,6 @@ function adicionarMarcadores(arvoreBuscada, map) {
     }
   });
 }
-
 function fillPageData(planta) {
   console.log("entrou no fillPageData");
 
@@ -129,4 +127,14 @@ function fillPageData(planta) {
   coletas.textContent = "Coletas: " + planta.coletas;
 
   createOpenStreetMap(planta);
+}
+
+function mostrarTelaArvore() {
+  document.getElementById("homepage").style.display = "none";
+  document.getElementById("tela-arvore").style.display = "block";
+}
+
+function mostrarHomepage() {
+  document.getElementById("tela-arvore").style.display = "none";
+  document.getElementById("homepage").style.display = "block";
 }

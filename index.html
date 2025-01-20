@@ -10,55 +10,6 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 
-    <style>
-      body {
-        font-family: sans-serif;
-        margin: 0;
-        padding: 0;
-        background-color: #f4f4f4;
-      }
-      .container {
-        max-width: 800px;
-        margin: 20px auto;
-        background: #fff;
-        padding: 20px;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-      }
-      h1 {
-        text-align: center;
-        color: #333;
-      }
-      img {
-        display: block;
-        margin: 20px auto;
-        max-width: 100%;
-        height: auto;
-      }
-      .info {
-        margin-bottom: 20px;
-      }
-      .info h2 {
-        color: #333;
-      }
-      .info p {
-        line-height: 1.6;
-        color: #555;
-      }
-      .button {
-        display: inline-block;
-        padding: 10px 20px;
-        background-color: #5cb85c;
-        color: #fff;
-        text-decoration: none;
-        border-radius: 5px;
-        transition: background-color 0.3s ease;
-      }
-      .button:hover {
-        background-color: #4cae4c;
-      }
-    </style>
-
-
   </head>
   
   <body>
@@ -109,6 +60,33 @@
     </header>
 
     <main>
+      
+    <section id="homepage">
+      <div id="banner"> 
+        <a href="#instrucoes" id="instrucoes-seta-box">
+          <span>Instruções</span>
+          <img id="seta-instrucoes" src="/assets/img/homepage/seta_instrucoes.png" alt="Seta para baixo">
+        </a>
+      </div>
+    
+      <div id="instrucoes">
+        <h2>Instruções</h2>
+        <p>1 - Digite o código da planta</p>
+        <img src="assets/img/homepage/etiqueta_tronco.jpg" alt="Imagem da instrução 1">
+        <p>2 - Aprenda e observe a árvore</p>
+        <img src="assets/img/homepage/instrucoes2.png" alt="Imagem da instrução 2">
+        <p>3 - Responda a pergunta</p>
+        <img src="assets/img/homepage/instrucoes3.png" alt="Imagem da instrução 3">
+        <p>4 - Leia a frase secreta e ganhe um brinde!</p>
+        <img src="assets/img/homepage/instrucoes4.png" alt="Imagem da instrução 4">
+      </div>
+      
+
+      <button id="tree-page-button">COMEÇAR</button>
+    </section>
+  
+    <section id="tela-arvore" style="display: none;">
+      <button id="home-page-button">HOME PAGE</button>
       <!--slider start-->
       <div class="slider">
         <div class="slides">
@@ -135,48 +113,6 @@
             <p class="data-plantio-indv"></p>
             <p class="coletas-indv"></p>
         </div>
-        <!--começa daqui o codigo do gemini-->
-        <div class="container">
-          <h1>Euterpe precatoria: A Palmeira Misteriosa</h1>
-        
-          <div class="info">
-            <h2>Ficha da Exploradora</h2>
-            <p>
-              <b>Nome científico:</b> <i>Euterpe precatoria</i><br>
-              <b>Família:</b> Arecaceae (a mesma do açaí e do coco!)<br>
-              <b>Habitat:</b> Florestas úmidas da América Central e do Sul<br>
-              <b>Altura:</b> Pode chegar a 20 metros de altura! 😲<br>
-              <b>Tronco:</b> Solitário, fininho e elegante, de cor cinza<br>
-            </p>
-          </div>
-        
-          <img src="assets/img/palmeira.png" alt="Euterpe precatoria">
-        
-          <div class="info">
-            <h2>Desvendando os Segredos</h2>
-            <p>
-              A Euterpe precatoria é uma palmeira incrível que produz frutos parecidos com o açaí! Ela é super importante para o ecossistema da floresta Amazônica, fornecendo alimento para diversos animais e ajudando a proteger o solo. 🌳🐒
-            </p>
-            <p>
-              Sabia que o palmito do huasaí é uma delícia? 😋 E que suas folhas jovens também podem ser comidas? 🌿 Mas lembre-se, retirar as folhas pode prejudicar a palmeira.
-            </p>
-          </div>
-        
-          <div class="info">
-            <h2>Missão: Caça ao Tesouro</h2>
-            <p>
-              Agora que você já conhece um pouco sobre a Euterpe precatoria, que tal encontrá-la na floresta? 🕵️‍♀️
-            </p>
-            <ul>
-              <li>Procure por uma palmeira alta, com tronco fino e folhas que parecem plumas.</li>
-              <li>Observe se ela tem frutos pequenos e roxos escuros.</li>
-              <li>Desenhe a palmeira que você encontrou e descreva suas características. ✍️</li>
-            </ul>
-          </div>
-        
-          <a href="#" class="button">Quero saber mais!</a>
-        </div>
-        <!--termina aqui o codigo do gemini-->
 
 
 
@@ -186,6 +122,7 @@
         
       </div>
       <!--conteudo end-->
+    </section>
 
     </main>
 

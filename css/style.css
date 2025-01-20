@@ -225,3 +225,96 @@ header {
     display: none;
   }
 }
+
+/* CSS DA SECAO HOMEPAGE INICIO*/
+#banner {
+  background-image: url("/assets/img/homepage/homebanner.png"); /* Substitua pelo caminho da sua imagem */
+  background-size: cover; /* A imagem cobre toda a área */
+  background-position: center; /* Centraliza a imagem */
+  min-height: calc(100vh - 130px); /* Altura mínima da tela */
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-items: end; /* Centraliza o conteúdo horizontalmente */
+  text-align: center; /* Centraliza o texto */
+  padding: 20px; /* Adiciona espaçamento interno */
+}
+
+#banner span {
+  color: darkorange;
+}
+
+.conteudo-banner {
+  margin-bottom: auto; /* Empurra o conteúdo para cima */
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.7
+  ); /* Fundo branco semi-transparente */
+  color: #333; /* Cor do texto - cinza escuro */
+  text-shadow: 0px 0px 3px #fff; /* Sombreamento branco */
+  padding: 20px;
+  border-radius: 10px; /*opcional - Cantos arredondados */
+}
+
+.conteudo-banner p {
+  margin-top: 40px;
+}
+
+#instrucoes-seta-box {
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+}
+
+#seta-instrucoes {
+  height: 70px;
+  transform: rotate(90deg);
+}
+#texto-instrucoes {
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: darkorange;
+}
+
+#instrucoes {
+  background-color: #fff; /* Cor de fundo da seção de instruções */
+  padding: 20px;
+  justify-items: center;
+
+  p {
+    margin: 25px 0 40px 0;
+  }
+
+  img {
+    height: 250px;
+  }
+}
+
+#tree-page-button {
+  width: 300px;
+  height: 80px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  background-color: #4caf50; /* Verde */
+  border: none; /* Sem borda */
+  color: white; /* Texto branco */
+  padding: 15px 32px; /* Espaçamento interno */
+  text-align: center;
+  text-decoration: none; /* Sem sublinhado no texto */
+  font-size: 32px;
+  cursor: pointer; /* Cursor em forma de mão */
+  border-radius: 10px; /* Bordas arredondadas */
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1); /* Sombra suave */
+  transition: all 0.3s ease; /* Transição suave para os efeitos de hover */
+}
+
+#tree-page-button:hover {
+  background-color: #3e8e41; /* Verde mais escuro ao passar o mouse */
+  box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.2); /* Sombra mais intensa ao passar o mouse */
+  transform: translateY(-2px); /* Leve movimento para cima ao passar o mouse */
+}
+/* CSS DA SECAO HOMEPAGE FIM*/
