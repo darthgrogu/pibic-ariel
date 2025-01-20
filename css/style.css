@@ -228,7 +228,7 @@ header {
 
 /* CSS DA SECAO HOMEPAGE INICIO*/
 #banner {
-  background-image: url("/assets/img/homepage/homebanner.png"); /* Substitua pelo caminho da sua imagem */
+  background-image: url("/assets/img/homepage/homebanner.jpg"); /* Substitua pelo caminho da sua imagem */
   background-size: cover; /* A imagem cobre toda a área */
   background-position: center; /* Centraliza a imagem */
   min-height: calc(100vh - 130px); /* Altura mínima da tela */
