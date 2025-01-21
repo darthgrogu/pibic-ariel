@@ -2059,8 +2059,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "https://github.com/darthgrogu/pibic-ariel/blob/main/assets/img/arvore-page/tanimbuca/GR216-20250117-0.jpg",
-      "https://github.com/darthgrogu/pibic-ariel/blob/main/assets/img/arvore-page/tanimbuca/GR216-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR216-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR216-20250117-1.jpg"
     ]
   },
   {
