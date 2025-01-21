@@ -6,13 +6,6 @@ export const dados = [
     autor: "Mart.",
     familia: "Arecaceae",
     codigo: "D23674",
-    data_plantio: "12/10/2006",
-    coletas: "MELO, LHS 452; HOPKINS, MJG 123",
-    descricao:
-      "E. precatoria é monocaule de 3 a 23m de altura e de 4 a 23cm de diâmetro, ou raramente cespitoso, palmito fino e liso no topo; tem um cone de raízes visíveis; folhas com pinas planas, de 1 a 3cm de largura, pêndulas ou horizontais; frutos globosos, de cor púrpura-negra quando maduros, com resíduo estigmático lateral; sementes com endosperma homogêneo (Lorenzi et al., 2004; Ferreira, 2005)",
-    distribuicao:
-      "E. precatoria está distribuída apenas na região Norte, ocupando, predominantemente, o lado Ocidental, nos estados do Amazonas, Acre, Rondônia e Pará, com a variedade longevaginata estando restrita ao Acre, na Serra do Divisor, que faz fronteira com o Peru (Mapa 2) (Henderson; Galeano, 1996; Lorenzi et al., 2004; Flora do Brasil, 2018; Vianna, 2020).",
-    distribuicao_mapa: "./assets/img/mapas/acai_mapa.png",
     imagelist: [
       "./assets/img/fotosplantas/acai1.jpg",
       "./assets/img/fotosplantas/acai2.jpg",
@@ -21,6 +14,35 @@ export const dados = [
     ],
     lat: -3.0975,
     long: -59.986667,
+    frasesecreta:
+      "o açaizeiro é uma das palmeiras mais importantes para a nossa região! viva o açaí!",
+    pergunta: "Qual grupo de plantas essa arvore pertence?",
+    opcoes: [
+      { texto: "Epífitas", correta: false },
+      { texto: "Palmeiras", correta: true },
+      { texto: "Briofitas", correta: false },
+      { texto: "Dicotiletoneas", correta: false },
+    ],
+    curiosidades: [
+      {
+        titulo: "Floração exuberante",
+        texto:
+          "A floração do ipê-amarelo é um espetáculo da natureza, colorindo a paisagem com suas flores vibrantes.",
+        imagem: "./assets/img/homepage/instrucoes2.png",
+      },
+      {
+        titulo: "Madeira resistente",
+        texto:
+          "A madeira do ipê-amarelo é muito resistente e utilizada na construção civil e em móveis de alta qualidade.",
+        imagem: "./assets/img/homepage/instrucoes3.png",
+      },
+      {
+        titulo: "Símbolo do Brasil",
+        texto:
+          "O ipê-amarelo é considerado uma das árvores símbolo do Brasil, representando a beleza e a força da nossa flora.",
+        imagem: "./assets/img/homepage/instrucoes4.png",
+      },
+    ],
   },
   {
     id: 2,
@@ -44,6 +66,30 @@ export const dados = [
     ],
     lat: -3.0975,
     long: -59.986667,
+    pergunta: "Parkia é polinizada por qual bicho?",
+    opcoes: [
+      { texto: "Barata", correta: false },
+      { texto: "Morcego", correta: true },
+      { texto: "Passaro", correta: false },
+      { texto: "Abelha", correta: false },
+    ],
+    curiosidades: [
+      {
+        titulo: "Floração exuberante",
+        texto: "A floração de Parkia multijuga atrai muitos animais",
+        imagem: "./assets/img/homepage/instrucoes2.png",
+      },
+      {
+        titulo: "Madeira resistente",
+        texto: "A madeira dde parkia multijuga é muito valorizada",
+        imagem: "./assets/img/homepage/instrucoes3.png",
+      },
+      {
+        titulo: "Símbolo do Brasil",
+        texto: "A faveira é muito conhecida pelos frutos resistentes",
+        imagem: "./assets/img/homepage/instrucoes4.png",
+      },
+    ],
   },
   {
     id: 3,
@@ -67,6 +113,33 @@ export const dados = [
     ],
     lat: -3.0975,
     long: -59.986667,
+    pergunta: "Qual grupo de plantas essa arvore pertence?",
+    opcoes: [
+      { texto: "Epífitas", correta: false },
+      { texto: "Palmeiras", correta: true },
+      { texto: "Briofitas", correta: false },
+      { texto: "Dicotiletoneas", correta: false },
+    ],
+    curiosidades: [
+      {
+        titulo: "Floração exuberante",
+        texto:
+          "A floração do ipê-amarelo é um espetáculo da natureza, colorindo a paisagem com suas flores vibrantes.",
+        imagem: "./assets/img/homepage/instrucoes2.png",
+      },
+      {
+        titulo: "Madeira resistente",
+        texto:
+          "A madeira do ipê-amarelo é muito resistente e utilizada na construção civil e em móveis de alta qualidade.",
+        imagem: "./assets/img/homepage/instrucoes3.png",
+      },
+      {
+        titulo: "Símbolo do Brasil",
+        texto:
+          "O ipê-amarelo é considerado uma das árvores símbolo do Brasil, representando a beleza e a força da nossa flora.",
+        imagem: "./assets/img/homepage/instrucoes4.png",
+      },
+    ],
   },
   {
     id: 4,

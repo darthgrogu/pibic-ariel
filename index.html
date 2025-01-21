@@ -8,13 +8,14 @@
     <link rel="stylesheet" href="css/slider.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
     <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 
   </head>
   
   <body>
     <header>
-      <nav class="nav-bar">
+      <nav class="nav-bar" style="display: none;">
         <div class="logo">
           <h1>INPA</h1>
         </div>
@@ -40,7 +41,7 @@
         </div>
       </nav>
       
-      <div class="mobile-search-container">
+      <div class="mobile-search-container" id="mobile-search-container" style="display: none;">
         <input type="text" id="mobile-search-box" placeholder="Pesquisar..." />
         <button id="mobile-search-button" onclick="searchPlant()"><i class="fa fa-search"></i></button>
       </div>
@@ -86,42 +87,76 @@
     </section>
   
     <section id="tela-arvore" style="display: none;">
-      <button id="home-page-button">HOME PAGE</button>
-      <!--slider start-->
-      <div class="slider">
-        <div class="slides">
+
+      <section id="tela-arvore-first-page">
+        <div class="arvore-nao-encontrada">
+          <img src="assets/img/arvore-page/firstsearch.jpg" alt="Árvore triste"> <h2>REALIZE SUA PRIMEIRA BUSCA</h2>
+          <p>ENCONTRE UMA ÁRVORE COM A PLAQUINHA BRANCA E DIGITE O CÓDIGO</p>
+        </div>
+      </section>
+
+      <section id="tela-arvore-notfound" style="display: none;">
+        <div class="arvore-nao-encontrada">
+          <img src="assets/img/arvore-page/notfound.jpg" alt="Árvore triste"> <h2>ÁRVORE NÃO ENCONTRADA</h2>
+          <p>Realize uma nova busca</p>
+        </div>
+      </section>
+
+      <section id="tela-arvore-plantinfo" style="display: none;">
+        <!--slider start-->
+        <div class="slider">
+          <div class="slides">
+            
+          </div>
+          
+          <button class="prev">&#10094</button>
+          <button class="next">&#10095</button>
+
+        </div>
+        <!--slider end-->
+
+        <!--conteudo start-->
+        <div class="conteudo">
+          <h2 class="vernacular"></h2>
+          <div class="fullname">
+              <h2 class="nome-cientifico"></h2>
+              <h2 class="autor"></h2>
+          </div>
+          <p class="familia"></p>
+          <h3 class="individuo-info-titulo">Informações do Indivíduo</h3>
+          <div class="individuo-info">
+              <p class="codigo-indv"></p>
+          </div>
+          
+          <!--curiosidades-->
+          <div class="curiosidades">
+
+          </div>
+
+          <div class="quiz-container">
+            
+            <h2 id="quiz-container-titulo">Pergunta premiada</h2>
+            <p id="quiz-container-subtitulo">Você está pronto aventureiro? Responda corretamente e ganhe um brinde na nossa barraca</p>
+
+            <div id="pergunta">
+            </div>
+            <div id="opcoes">
+            </div>
+            <button id="responder">Responder</button>
+            <div id="resultado">
+            </div>
+
+          </div>
+
           
         </div>
+        <!--conteudo end-->
+      </section>
+      
+      <section id="tela-arvore-unknown" style="display: none;">
         
-        <button class="prev">&#10094</button>
-        <button class="next">&#10095</button>
-
-      </div>
-      <!--slider end-->
-
-      <!--conteudo start-->
-      <div class="conteudo">
-        <h2 class="vernacular"></h2>
-        <div class="fullname">
-            <h2 class="nome-cientifico"></h2>
-            <h2 class="autor"></h2>
-        </div>
-        <p class="familia"></p>
-        <h3 class="individuo-info-titulo">Informações do Indivíduo</h3>
-        <div class="individuo-info">
-            <p class="codigo-indv"></p>
-            <p class="data-plantio-indv"></p>
-            <p class="coletas-indv"></p>
-        </div>
-
-
-
-        <div id="map-container" class="mapa-container">
-            
-        </div>
-        
-      </div>
-      <!--conteudo end-->
+      </section>
+      
     </section>
 
     </main>
@@ -130,5 +165,6 @@
     <script type="module" src="scripts/app.js"></script>
     <script type="module" src="scripts/slider.js"></script>
     <script type="module" src="scripts/textBox.js"></script>
+    <script type="module" src="scripts/animation.js"></script>
   </body>
 </html>

@@ -3,6 +3,7 @@ import { dados } from "./data.js";
 initEventListeners();
 
 window.searchPlant = searchPlant;
+var map;
 
 function menuShow() {
   let menuMobile = document.querySelector(".mobile-menu");
@@ -21,8 +22,6 @@ function initEventListeners() {
   botao.addEventListener("click", menuShow);
   const treepagebutton = document.getElementById("tree-page-button");
   treepagebutton.addEventListener("click", mostrarTelaArvore);
-  const homepagebutton = document.getElementById("home-page-button");
-  homepagebutton.addEventListener("click", mostrarHomepage);
 
   const searchBox = document.getElementById("search-box");
   window.addEventListener("resize", function () {
@@ -56,8 +55,12 @@ function searchPlant() {
       item.nomecientifico === searchTerm
   );
 
-  console.log(result);
-  fillPageData(result);
+  if (result !== undefined) {
+    console.log(result);
+    fillPageData(result);
+  } else {
+    mostrarTelaArvoreNotFound();
+  }
 }
 function criarLinkMapa(latitude, longitude) {
   var url =
@@ -68,13 +71,23 @@ function criarLinkMapa(latitude, longitude) {
   return '<a href="' + url + '" target="_blank">Abrir no Mapa</a>';
 }
 function createOpenStreetMap(arvoreBuscada) {
-  //Centraliza o mapa no bosque da ciencia
-  var map = L.map("map-container").setView([-3.096667, -59.986389], 17);
+  // Cria o mapa apenas se ele ainda não existir
 
-  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-    attribution:
-      '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-  }).addTo(map);
+  if (!map) {
+    map = L.map("map-container").setView([-3.096667, -59.986389], 17);
+
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      attribution:
+        '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    }).addTo(map);
+  }
+
+  // Remove os marcadores antigos (se houver)
+  map.eachLayer(function (layer) {
+    if (layer instanceof L.Marker) {
+      map.removeLayer(layer);
+    }
+  });
 
   adicionarMarcadores(arvoreBuscada, map);
 }
@@ -105,6 +118,33 @@ function adicionarMarcadores(arvoreBuscada, map) {
     }
   });
 }
+function gerarCuriosidades(curiosidades) {
+  const curiosidadesContainer = document.querySelector(".curiosidades");
+  curiosidadesContainer.innerHTML = ""; // Limpa o container antes de adicionar novas curiosidades
+
+  curiosidades.forEach((curiosidade, index) => {
+    // Cria os elementos HTML
+    const divCuriosidade = document.createElement("div");
+    const titulo = document.createElement("h2");
+    const paragrafo = document.createElement("p");
+    const imagem = document.createElement("img");
+
+    // Define o conteúdo dos elementos
+    titulo.textContent = curiosidade.titulo;
+    paragrafo.textContent = curiosidade.texto;
+    imagem.src = curiosidade.imagem;
+    imagem.alt = curiosidade.titulo; // Define o atributo alt da imagem
+
+    // Adiciona os elementos à divCuriosidade
+    divCuriosidade.appendChild(titulo);
+    divCuriosidade.appendChild(paragrafo);
+    divCuriosidade.appendChild(imagem);
+
+    // Adiciona a divCuriosidade ao container
+    curiosidadesContainer.appendChild(divCuriosidade);
+  });
+}
+
 function fillPageData(planta) {
   console.log("entrou no fillPageData");
 
@@ -123,18 +163,95 @@ function fillPageData(planta) {
   autor.textContent = planta.autor;
   familia.textContent = planta.familia;
   codigo.textContent = "Código: " + planta.codigo;
-  data_plantio.textContent = "Data de plantio: " + planta.data_plantio;
-  coletas.textContent = "Coletas: " + planta.coletas;
 
-  createOpenStreetMap(planta);
+  //createOpenStreetMap(planta);
+
+  //curiosidades inicio
+  gerarCuriosidades(planta.curiosidades);
+  //curiosidades fim
+
+  //quiz inicio
+  const perguntaContainer = document.getElementById("pergunta");
+  const opcoesContainer = document.getElementById("opcoes");
+  const responderBtn = document.getElementById("responder");
+  const resultadoContainer = document.getElementById("resultado");
+
+  perguntaContainer.innerHTML = "";
+  opcoesContainer.innerHTML = "";
+  resultadoContainer.innerHTML = "";
+
+  perguntaContainer.textContent = planta.pergunta;
+
+  planta.opcoes.forEach((opcao) => {
+    const label = document.createElement("label");
+    const radio = document.createElement("input");
+    radio.type = "radio";
+    radio.name = "resposta";
+    radio.value = opcao.texto;
+    label.appendChild(radio);
+    label.appendChild(document.createTextNode(opcao.texto));
+    opcoesContainer.appendChild(label);
+  });
+
+  responderBtn.addEventListener("click", () => {
+    const respostaSelecionada = document.querySelector(
+      'input[name="resposta"]:checked'
+    );
+
+    if (respostaSelecionada) {
+      const resposta = respostaSelecionada.value;
+      const opcaoCorreta = planta.opcoes.find((opcao) => opcao.correta).texto;
+
+      if (resposta === opcaoCorreta) {
+        resultadoContainer.textContent =
+          "Parabéns!! Frase secreta: " + planta.frasesecreta;
+        console.log(resultadoContainer.textContent);
+        resultadoContainer.classList.add("resultado-correto");
+        resultadoContainer.classList.remove("resultado-incorreto");
+      } else {
+        resultadoContainer.textContent = "Resposta incorreta";
+        resultadoContainer.classList.add("resultado-incorreto");
+        resultadoContainer.classList.remove("resultado-correto");
+      }
+    } else {
+      resultadoContainer.textContent = "Selecione uma opção!";
+    }
+  });
+
+  //quiz fim
+
+  mostrarTelaArvorePlantInfo();
 }
 
 function mostrarTelaArvore() {
   document.getElementById("homepage").style.display = "none";
   document.getElementById("tela-arvore").style.display = "block";
+  document.getElementById("mobile-search-container").style.display = "flex";
+  mostrarTelaArvoreFirstPage();
 }
 
 function mostrarHomepage() {
   document.getElementById("tela-arvore").style.display = "none";
   document.getElementById("homepage").style.display = "block";
+}
+
+function mostrarTelaArvoreFirstPage() {
+  document.getElementById("tela-arvore-first-page").style.display = "block";
+  document.getElementById("tela-arvore-notfound").style.display = "none";
+  document.getElementById("tela-arvore-plantinfo").style.display = "none";
+  document.getElementById("tela-arvore-unknown").style.display = "none";
+}
+
+function mostrarTelaArvoreNotFound() {
+  document.getElementById("tela-arvore-first-page").style.display = "none";
+  document.getElementById("tela-arvore-notfound").style.display = "block";
+  document.getElementById("tela-arvore-plantinfo").style.display = "none";
+  document.getElementById("tela-arvore-unknown").style.display = "none";
+}
+
+function mostrarTelaArvorePlantInfo() {
+  document.getElementById("tela-arvore-first-page").style.display = "none";
+  document.getElementById("tela-arvore-notfound").style.display = "none";
+  document.getElementById("tela-arvore-plantinfo").style.display = "block";
+  document.getElementById("tela-arvore-unknown").style.display = "none";
 }
