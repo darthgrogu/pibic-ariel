@@ -9,17 +9,17 @@ export const dados = [
       {
         "titulo": "O azedinho delicioso!",
         "texto": "O cajá é uma frutinha amarela, com um sabor bem azedinho, mas perfeito para sucos e sorvetes refrescantes!",
-        "imagem": "gr229curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr229curiosidade1.jpg"
       },
       {
         "titulo": "Árvore gigante da floresta!",
         "texto": "A árvore do cajá pode crescer muito, até mais de 15 metros, criando uma sombra enorme para refrescar todo mundo.",
-        "imagem": "gr229curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr229curiosidade2.jpg"
       },
       {
         "titulo": "Queridinha dos animais!",
         "texto": "Muitos bichos, como macacos e pássaros, adoram o cajá. Eles comem a fruta e ajudam a espalhar as sementes pela floresta!",
-        "imagem": "gr229curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr229curiosidade3.jpg"
       }
     ],
     "pergunta": "Qual fruta é chamada de azedinho delicioso e cresce em uma árvore gigante que chega a mais de 15 metros?",
@@ -57,17 +57,17 @@ export const dados = [
       {
         "titulo": "O fruto com casca de espinho!",
         "texto": "A Annona insignis dá frutos com uma casca cheia de bolinhas que parecem espinhos, mas por dentro é doce e macio.",
-        "imagem": "gr246curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr246curiosidade1.jpg"
       },
       {
         "titulo": "Amiga das abelhas!",
         "texto": "Suas flores atraem muitas abelhas, que ajudam a polinizar a planta e a criar novos frutos.",
-        "imagem": "gr246curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr246curiosidade2.jpg"
       },
       {
         "titulo": "A fruta escondida da Amazônia!",
         "texto": "Essa árvore é encontrada em áreas da floresta tropical e suas frutas são bem especiais, mas poucas pessoas conhecem!",
-        "imagem": "gr246curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr246curiosidade3.jpg"
       }
     ],
     "pergunta": "Qual planta dá frutos com casca espinhosa, ajuda as abelhas e é uma joia escondida da floresta?",
@@ -105,17 +105,17 @@ export const dados = [
       {
         "titulo": "A palmeira gigante!",
         "texto": "A Attalea maripa é uma palmeira enorme que pode chegar a 20 metros de altura, quase como um prédio pequeno!",
-        "imagem": "gr172curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr172curiosidade1.jpg"
       },
       {
         "titulo": "Frutas para todos!",
         "texto": "Seus frutos são deliciosos e servem de comida para pessoas e animais, como macacos e antas, que adoram o sabor.",
-        "imagem": "gr172curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr172curiosidade2.jpg"
       },
       {
         "titulo": "Coroa de folhas mágicas!",
         "texto": "As folhas da palmeira inajá são usadas para fazer artesanato, como cestos e chapéus, nas comunidades da Amazônia.",
-        "imagem": "gr172curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr172curiosidade3.jpg"
       }
     ],
     "pergunta": "Qual palmeira tem frutos que alimentam pessoas e animais e folhas usadas em artesanato?",
@@ -153,17 +153,17 @@ export const dados = [
       {
         "titulo": "Uma palmeira com muitos nomes! 🌴",
         "texto": "Açaí, juçara, piná... Ufa! Essa palmeira tem um montão de nomes! Qual você usa aí na sua cidade? 🤔",
-        "imagem": "gr210curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr210curiosidade1.jpg"
       },
       {
         "titulo": "Super-açaí: o herói da floresta! 💪",
         "texto": "Cheio de vitaminas e minerais, o açaí te deixa forte e esperto para brincar o dia todo! É ou não é um superalimento? 🦸‍♀️✨",
-        "imagem": "gr210curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr210curiosidade2.jpg"
       },
       {
         "titulo": "Açaí: amigo dos bichos! 🐦🐒",
         "texto": "A palmeira do açaí é um festão para os animais! Seus frutos alimentam macacos, aves e até peixes! Que banquete! 🏡🥳",
-        "imagem": "gr210curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr210curiosidade3.jpg"
       }
     ],
     "pergunta": "Qual desses nomes NÃO é usado para a palmeira Euterpe oleracea?",
@@ -201,17 +201,17 @@ export const dados = [
       {
         "titulo": "Uma palmeira com muitos nomes! 🌴",
         "texto": "Açaí, juçara, piná... Ufa! Essa palmeira tem um montão de nomes! Qual você usa aí na sua cidade? 🤔",
-        "imagem": "gr210curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr210curiosidade1.jpg"
       },
       {
         "titulo": "Super-açaí: o herói da floresta! 💪",
         "texto": "Cheio de vitaminas e minerais, o açaí te deixa forte e esperto para brincar o dia todo! É ou não é um superalimento? 🦸‍♀️✨",
-        "imagem": "gr210curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr210curiosidade2.jpg"
       },
       {
         "titulo": "Açaí: amigo dos bichos! 🐦🐒",
         "texto": "A palmeira do açaí é um festão para os animais! Seus frutos alimentam macacos, aves e até peixes! Que banquete! 🏡🥳",
-        "imagem": "gr210curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr210curiosidade3.jpg"
       }
     ],
     "pergunta": "Qual desses nomes NÃO é usado para a palmeira Euterpe oleracea?",
@@ -249,17 +249,17 @@ export const dados = [
       {
         "titulo": "Uma palmeira com muitos nomes! 🌴",
         "texto": "Açaí, juçara, piná... Ufa! Essa palmeira tem um montão de nomes! Qual você usa aí na sua cidade? 🤔",
-        "imagem": "gr210curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr210curiosidade1.jpg"
       },
       {
         "titulo": "Super-açaí: o herói da floresta! 💪",
         "texto": "Cheio de vitaminas e minerais, o açaí te deixa forte e esperto para brincar o dia todo! É ou não é um superalimento? 🦸‍♀️✨",
-        "imagem": "gr210curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr210curiosidade2.jpg"
       },
       {
         "titulo": "Açaí: amigo dos bichos! 🐦🐒",
         "texto": "A palmeira do açaí é um festão para os animais! Seus frutos alimentam macacos, aves e até peixes! Que banquete! 🏡🥳",
-        "imagem": "gr210curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr210curiosidade3.jpg"
       }
     ],
     "pergunta": "Qual desses nomes NÃO é usado para a palmeira Euterpe oleracea?",
@@ -297,17 +297,17 @@ export const dados = [
       {
         "titulo": "O irmão do açaí!",
         "texto": "A Euterpe precatoria é parecida com o açaizeiro comum, mas é chamada de açaí-solteiro porque tem um tronco único, diferente do açaizeiro de vários troncos.",
-        "imagem": "gr208curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr208curiosidade1.jpg"
       },
       {
         "titulo": "Frutinha cheia de energia!",
         "texto": "Seus frutos, como o açaí, são usados para fazer bebidas e comidas deliciosas, dando energia para quem consome!",
-        "imagem": "gr208curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr208curiosidade2.jpg"
       },
       {
         "titulo": "Mais comum no coração da Amazônia!",
         "texto": "Essa palmeira cresce em áreas isoladas da floresta, onde é uma das favoritas dos moradores locais.",
-        "imagem": "gr208curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr208curiosidade3.jpg"
       }
     ],
     "pergunta": "Por que a Euterpe precatoria é chamada de açaí-solteiro?",
@@ -345,17 +345,17 @@ export const dados = [
       {
         "titulo": "O irmão do açaí!",
         "texto": "A Euterpe precatoria é parecida com o açaizeiro comum, mas é chamada de açaí-solteiro porque tem um tronco único, diferente do açaizeiro de vários troncos.",
-        "imagem": "gr208curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr208curiosidade1.jpg"
       },
       {
         "titulo": "Frutinha cheia de energia!",
         "texto": "Seus frutos, como o açaí, são usados para fazer bebidas e comidas deliciosas, dando energia para quem consome!",
-        "imagem": "gr208curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr208curiosidade2.jpg"
       },
       {
         "titulo": "Mais comum no coração da Amazônia!",
         "texto": "Essa palmeira cresce em áreas isoladas da floresta, onde é uma das favoritas dos moradores locais.",
-        "imagem": "gr208curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr208curiosidade3.jpg"
       }
     ],
     "pergunta": "Por que a Euterpe precatoria é chamada de açaí-solteiro?",
@@ -393,17 +393,17 @@ export const dados = [
       {
         "titulo": "O irmão do açaí!",
         "texto": "A Euterpe precatoria é parecida com o açaizeiro comum, mas é chamada de açaí-solteiro porque tem um tronco único, diferente do açaizeiro de vários troncos.",
-        "imagem": "gr208curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr208curiosidade1.jpg"
       },
       {
         "titulo": "Frutinha cheia de energia!",
         "texto": "Seus frutos, como o açaí, são usados para fazer bebidas e comidas deliciosas, dando energia para quem consome!",
-        "imagem": "gr208curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr208curiosidade2.jpg"
       },
       {
         "titulo": "Mais comum no coração da Amazônia!",
         "texto": "Essa palmeira cresce em áreas isoladas da floresta, onde é uma das favoritas dos moradores locais.",
-        "imagem": "gr208curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr208curiosidade3.jpg"
       }
     ],
     "pergunta": "Por que a Euterpe precatoria é chamada de açaí-solteiro?",
@@ -441,17 +441,17 @@ export const dados = [
       {
         "titulo": "O irmão do açaí!",
         "texto": "A Euterpe precatoria é parecida com o açaizeiro comum, mas é chamada de açaí-solteiro porque tem um tronco único, diferente do açaizeiro de vários troncos.",
-        "imagem": "gr208curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr208curiosidade1.jpg"
       },
       {
         "titulo": "Frutinha cheia de energia!",
         "texto": "Seus frutos, como o açaí, são usados para fazer bebidas e comidas deliciosas, dando energia para quem consome!",
-        "imagem": "gr208curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr208curiosidade2.jpg"
       },
       {
         "titulo": "Mais comum no coração da Amazônia!",
         "texto": "Essa palmeira cresce em áreas isoladas da floresta, onde é uma das favoritas dos moradores locais.",
-        "imagem": "gr208curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr208curiosidade3.jpg"
       }
     ],
     "pergunta": "Por que a Euterpe precatoria é chamada de açaí-solteiro?",
@@ -489,17 +489,17 @@ export const dados = [
       {
         "titulo": "A fruta roxa da floresta!",
         "texto": "A bacaba é uma frutinha roxa que cresce em palmeiras altas e é usada para fazer uma bebida parecida com o açaí, mas com sabor bem diferente.",
-        "imagem": "gr181curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr181curiosidade1.jpg"
       },
       {
         "titulo": "Árvore que alimenta todo mundo!",
         "texto": "Além das pessoas, vários animais, como pássaros e roedores, adoram comer os frutos da bacaba. É uma festa na floresta!",
-        "imagem": "gr181curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr181curiosidade2.jpg"
       },
       {
         "titulo": "Óleo especial das sementes!",
         "texto": "Das sementes da bacaba, dá para fazer um óleo que é usado em cosméticos e produtos de beleza.",
-        "imagem": "gr181curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr181curiosidade3.jpg"
       }
     ],
     "pergunta": "Qual é a fruta roxa que cresce em palmeiras altas e é usada para fazer uma bebida deliciosa?",
@@ -537,17 +537,17 @@ export const dados = [
       {
         "titulo": "Árvore do cheirinho bom!",
         "texto": "A Protium apiculatum produz uma resina perfumada, usada para fazer incensos e perfumes com cheiros incríveis.",
-        "imagem": "gr243curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr243curiosidade1.jpg"
       },
       {
         "titulo": "Super resistente!",
         "texto": "Essa árvore é forte e cresce muito bem na floresta, ajudando a proteger o solo e outros seres vivos ao seu redor.",
-        "imagem": "gr243curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr243curiosidade2.jpg"
       },
       {
         "titulo": "Amiga das abelhas!",
         "texto": "Suas flores atraem muitas abelhas, que ajudam a polinizar e manter a floresta cheia de vida.",
-        "imagem": "gr243curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr243curiosidade3.jpg"
       }
     ],
     "pergunta": "Qual árvore é conhecida por sua resina perfumada e por ser amiga das abelhas?",
@@ -585,17 +585,17 @@ export const dados = [
       {
         "titulo": "Casca que protege!",
         "texto": "A Protium ferrugineum tem uma casca especial que solta uma resina usada para espantar insetos e proteger a árvore.",
-        "imagem": "gr190curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr190curiosidade1.jpg"
       },
       {
         "titulo": "O nome da cor!",
         "texto": "Ela é chamada de ferrugineum porque sua madeira e casca têm tons que lembram a cor de ferrugem.",
-        "imagem": "gr190curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr190curiosidade2.jpg"
       },
       {
         "titulo": "Flor amiga dos bichos!",
         "texto": "Suas flores pequenas atraem muitos polinizadores, como abelhas e borboletas, que ajudam a espalhar vida na floresta.",
-        "imagem": "gr190curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr190curiosidade3.jpg"
       }
     ],
     "pergunta": "Por que a Protium ferrugineum tem ferrugineum no nome?",
@@ -633,17 +633,17 @@ export const dados = [
       {
         "titulo": "A árvore do cheirinho fresco!",
         "texto": "A Protium rhoifolium solta uma resina com um aroma agradável, usada para fazer incensos e deixar o ambiente perfumado.",
-        "imagem": "gr178curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr178curiosidade1.jpg"
       },
       {
         "titulo": "Casca que vira remédio!",
         "texto": "As pessoas usam a casca dessa árvore na medicina tradicional para tratar machucados e outras enfermidades.",
-        "imagem": "gr178curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr178curiosidade2.jpg"
       },
       {
         "titulo": "Casa para bichinhos!",
         "texto": "Essa árvore é um lar importante para insetos, aves e outros animais que encontram nela comida e abrigo.",
-        "imagem": "gr178curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr178curiosidade3.jpg"
       }
     ],
     "pergunta": "Qual árvore tem uma resina perfumada e é usada na medicina tradicional?",
@@ -681,17 +681,17 @@ export const dados = [
       {
         "titulo": "A árvore do cheirinho fresco!",
         "texto": "A Protium rhoifolium solta uma resina com um aroma agradável, usada para fazer incensos e deixar o ambiente perfumado.",
-        "imagem": "gr178curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr178curiosidade1.jpg"
       },
       {
         "titulo": "Casca que vira remédio!",
         "texto": "As pessoas usam a casca dessa árvore na medicina tradicional para tratar machucados e outras enfermidades.",
-        "imagem": "gr178curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr178curiosidade2.jpg"
       },
       {
         "titulo": "Casa para bichinhos!",
         "texto": "Essa árvore é um lar importante para insetos, aves e outros animais que encontram nela comida e abrigo.",
-        "imagem": "gr178curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr178curiosidade3.jpg"
       }
     ],
     "pergunta": "Qual árvore tem uma resina perfumada e é usada na medicina tradicional?",
@@ -729,17 +729,17 @@ export const dados = [
       {
         "titulo": "A árvore do cheirinho fresco!",
         "texto": "A Protium rhoifolium solta uma resina com um aroma agradável, usada para fazer incensos e deixar o ambiente perfumado.",
-        "imagem": "gr178curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr178curiosidade1.jpg"
       },
       {
         "titulo": "Casca que vira remédio!",
         "texto": "As pessoas usam a casca dessa árvore na medicina tradicional para tratar machucados e outras enfermidades.",
-        "imagem": "gr178curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr178curiosidade2.jpg"
       },
       {
         "titulo": "Casa para bichinhos!",
         "texto": "Essa árvore é um lar importante para insetos, aves e outros animais que encontram nela comida e abrigo.",
-        "imagem": "gr178curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr178curiosidade3.jpg"
       }
     ],
     "pergunta": "Qual árvore tem uma resina perfumada e é usada na medicina tradicional?",
@@ -777,17 +777,17 @@ export const dados = [
       {
         "titulo": "Fruta comestível e gostosa!",
         "texto": "Algumas espécies de Couepia produzem frutos deliciosos, usados para fazer sucos e doces na Amazônia.",
-        "imagem": "gr194curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr194curiosidade1.jpg"
       },
       {
         "titulo": "Óleo mágico",
         "texto": "Das sementes da Couepia, pode-se extrair um óleo usado para cozinhar ou fazer produtos de beleza naturais.",
-        "imagem": "gr194curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr194curiosidade2.jpg"
       },
       {
         "titulo": "Amiga da floresta!",
         "texto": "A Couepia ajuda a manter o equilíbrio da natureza, servindo de comida e abrigo para vários animais.",
-        "imagem": "gr194curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr194curiosidade3.jpg"
       }
     ],
     "pergunta": "O que pode ser feito com as sementes da Couepia?",
@@ -825,17 +825,17 @@ export const dados = [
       {
         "titulo": "A árvore do mistério!",
         "texto": "A Moquilea brittoniana é uma planta rara e pouco conhecida, que cresce nas florestas tropicais.",
-        "imagem": "gr196curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr196curiosidade1.jpg"
       },
       {
         "titulo": "Frutos e flores especiais!",
         "texto": "Suas flores têm um formato bem diferente e seus frutos são pequenos, mas interessantes, atraindo animais da floresta.",
-        "imagem": "gr196curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr196curiosidade2.jpg"
       },
       {
         "titulo": "Amiga da biodiversidade!",
         "texto": "Apesar de ser rara, essa árvore é importante para o equilíbrio da floresta, ajudando a manter a biodiversidade.",
-        "imagem": "gr196curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr196curiosidade3.jpg"
       }
     ],
     "pergunta": "Por que a Moquilea brittoniana é chamada de árvore do mistério?",
@@ -873,17 +873,17 @@ export const dados = [
       {
         "titulo": "Peludinha por fora!",
         "texto": "A Moquilea tomentosa tem folhas e galhos cobertos por uma pelúcia natural que ajuda a proteger a planta.",
-        "imagem": "gr232curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr232curiosidade1.jpg"
       },
       {
         "titulo": "Frutos que atraem a natureza!",
         "texto": "Seus frutos são pequeninos e saborosos, ajudando a atrair pássaros e outros animais para a floresta.",
-        "imagem": "gr232curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr232curiosidade2.jpg"
       },
       {
         "titulo": "Cresce nas sombras!",
         "texto": "Essa árvore prefere o chão da floresta, onde a luz do sol é suave e a umidade é alta.",
-        "imagem": "gr232curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr232curiosidade3.jpg"
       }
     ],
     "pergunta": "O que cobre as folhas e galhos da Moquilea tomentosa?",
@@ -921,17 +921,17 @@ export const dados = [
       {
         "titulo": "Peludinha por fora!",
         "texto": "A Moquilea tomentosa tem folhas e galhos cobertos por uma pelúcia natural que ajuda a proteger a planta.",
-        "imagem": "gr232curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr232curiosidade1.jpg"
       },
       {
         "titulo": "Frutos que atraem a natureza!",
         "texto": "Seus frutos são pequeninos e saborosos, ajudando a atrair pássaros e outros animais para a floresta.",
-        "imagem": "gr232curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr232curiosidade2.jpg"
       },
       {
         "titulo": "Cresce nas sombras!",
         "texto": "Essa árvore prefere o chão da floresta, onde a luz do sol é suave e a umidade é alta.",
-        "imagem": "gr232curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr232curiosidade3.jpg"
       }
     ],
     "pergunta": "O que cobre as folhas e galhos da Moquilea tomentosa?",
@@ -969,17 +969,17 @@ export const dados = [
       {
         "titulo": "Peludinha por fora!",
         "texto": "A Moquilea tomentosa tem folhas e galhos cobertos por uma pelúcia natural que ajuda a proteger a planta.",
-        "imagem": "gr232curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr232curiosidade1.jpg"
       },
       {
         "titulo": "Frutos que atraem a natureza!",
         "texto": "Seus frutos são pequeninos e saborosos, ajudando a atrair pássaros e outros animais para a floresta.",
-        "imagem": "gr232curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr232curiosidade2.jpg"
       },
       {
         "titulo": "Cresce nas sombras!",
         "texto": "Essa árvore prefere o chão da floresta, onde a luz do sol é suave e a umidade é alta.",
-        "imagem": "gr232curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr232curiosidade3.jpg"
       }
     ],
     "pergunta": "O que cobre as folhas e galhos da Moquilea tomentosa?",
@@ -1017,17 +1017,17 @@ export const dados = [
       {
         "titulo": "Peludinha por fora!",
         "texto": "A Moquilea tomentosa tem folhas e galhos cobertos por uma pelúcia natural que ajuda a proteger a planta.",
-        "imagem": "gr232curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr232curiosidade1.jpg"
       },
       {
         "titulo": "Frutos que atraem a natureza!",
         "texto": "Seus frutos são pequeninos e saborosos, ajudando a atrair pássaros e outros animais para a floresta.",
-        "imagem": "gr232curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr232curiosidade2.jpg"
       },
       {
         "titulo": "Cresce nas sombras!",
         "texto": "Essa árvore prefere o chão da floresta, onde a luz do sol é suave e a umidade é alta.",
-        "imagem": "gr232curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr232curiosidade3.jpg"
       }
     ],
     "pergunta": "O que cobre as folhas e galhos da Moquilea tomentosa?",
@@ -1065,17 +1065,17 @@ export const dados = [
       {
         "titulo": "Peludinha por fora!",
         "texto": "A Moquilea tomentosa tem folhas e galhos cobertos por uma pelúcia natural que ajuda a proteger a planta.",
-        "imagem": "gr232curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr232curiosidade1.jpg"
       },
       {
         "titulo": "Frutos que atraem a natureza!",
         "texto": "Seus frutos são pequeninos e saborosos, ajudando a atrair pássaros e outros animais para a floresta.",
-        "imagem": "gr232curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr232curiosidade2.jpg"
       },
       {
         "titulo": "Cresce nas sombras!",
         "texto": "Essa árvore prefere o chão da floresta, onde a luz do sol é suave e a umidade é alta.",
-        "imagem": "gr232curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr232curiosidade3.jpg"
       }
     ],
     "pergunta": "O que cobre as folhas e galhos da Moquilea tomentosa?",
@@ -1113,17 +1113,17 @@ export const dados = [
       {
         "titulo": "Árvore gigante!",
         "texto": "A Terminalia grandis pode crescer até 30 metros de altura, sendo uma das árvores mais altas da floresta!",
-        "imagem": "gr168curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr168curiosidade1.jpg"
       },
       {
         "titulo": "Madeira super forte!",
         "texto": "Sua madeira é muito resistente e é usada para fazer móveis e até barcos!",
-        "imagem": "gr168curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr168curiosidade2.jpg"
       },
       {
         "titulo": "Folhas que se transformam!",
         "texto": "As folhas dessa árvore mudam de cor durante o ano, passando de verde para um amarelo dourado no outono.",
-        "imagem": "gr168curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr168curiosidade3.jpg"
       }
     ],
     "pergunta": "Qual é a característica da Terminalia grandis que a torna uma árvore gigante?",
@@ -1161,17 +1161,17 @@ export const dados = [
       {
         "titulo": "Fruta deliciosa!",
         "texto": "A Diospyros é conhecida por seus frutos chamados caquis, que podem ser doces ou mais azedinhos!",
-        "imagem": "gr251curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr251curiosidade1.jpg"
       },
       {
         "titulo": "Cores incríveis!",
         "texto": "Os caquis dessa árvore podem ter cores que vão do amarelo ao vermelho intenso, tornando a árvore muito bonita!",
-        "imagem": "gr251curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr251curiosidade2.jpg"
       },
       {
         "titulo": "Árvore que gosta de calor!",
         "texto": "A Diospyros adora o calor, por isso cresce melhor em regiões mais quentes, como o Brasil e outras partes tropicais.",
-        "imagem": "gr251curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr251curiosidade3.jpg"
       }
     ],
     "pergunta": "Qual é o nome da fruta produzida pela árvore Diospyros?",
@@ -1209,17 +1209,17 @@ export const dados = [
       {
         "titulo": "A árvore da floresta densa!",
         "texto": "A Sloanea cresce nas florestas tropicais, onde a luz do sol é bem filtrada pelas outras árvores.",
-        "imagem": "gr180curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr180curiosidade1.jpg"
       },
       {
         "titulo": "Frutos misteriosos!",
         "texto": "Seus frutos têm uma casca dura e uma polpa que os animais adoram, ajudando a espalhar suas sementes pela floresta!",
-        "imagem": "gr180curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr180curiosidade2.jpg"
       },
       {
         "titulo": "Folhas brilhantes!",
         "texto": "As folhas da Sloanea são grandes e brilhantes, o que faz a árvore se destacar na floresta!",
-        "imagem": "gr180curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr180curiosidade3.jpg"
       }
     ],
     "pergunta": "O que os animais adoram da árvore Sloanea?",
@@ -1257,17 +1257,17 @@ export const dados = [
       {
         "titulo": "Árvore super forte!",
         "texto": "A Goupia glabra tem uma madeira bem resistente, usada para fazer móveis e até barcos!",
-        "imagem": "gr241curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr241curiosidade1.jpg"
       },
       {
         "titulo": "Enorme e imponente!",
         "texto": "Ela pode crescer até 40 metros de altura, fazendo sombra em toda a floresta ao seu redor!",
-        "imagem": "gr241curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr241curiosidade2.jpg"
       },
       {
         "titulo": "Frutas misteriosas!",
         "texto": "Seus frutos são pequenos e servem como comida para muitos animais da floresta, ajudando a espalhar suas sementes.",
-        "imagem": "gr241curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr241curiosidade3.jpg"
       }
     ],
     "pergunta": "O que faz a Goupia glabra se destacar na floresta?",
@@ -1305,17 +1305,17 @@ export const dados = [
       {
         "titulo": "Uma árvore resistente!",
         "texto": "A Eschweilera coriacea tem uma casca bem grossa que a protege de muitos animais e até do fogo!",
-        "imagem": "gr192curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr192curiosidade1.jpg"
       },
       {
         "titulo": "Frutos que ajudam a floresta!",
         "texto": "Seus frutos são comidas por muitos animais que, ao se alimentar, espalham as sementes por toda a floresta.",
-        "imagem": "gr192curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr192curiosidade2.jpg"
       },
       {
         "titulo": "As flores são segredo da natureza!",
         "texto": "Suas flores são pequenas e raras, mas elas atraem muitos insetos que ajudam na polinização da árvore!",
-        "imagem": "gr192curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr192curiosidade3.jpg"
       }
     ],
     "pergunta": "O que protege a árvore Eschweilera coriacea?",
@@ -1353,17 +1353,17 @@ export const dados = [
       {
         "titulo": "Uma árvore resistente!",
         "texto": "A Eschweilera coriacea tem uma casca bem grossa que a protege de muitos animais e até do fogo!",
-        "imagem": "gr197curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr197curiosidade1.jpg"
       },
       {
         "titulo": "Frutos que ajudam a floresta!",
         "texto": "Seus frutos são comidas por muitos animais que, ao se alimentar, espalham as sementes por toda a floresta.",
-        "imagem": "gr197curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr197curiosidade2.jpg"
       },
       {
         "titulo": "As flores são segredo da natureza!",
         "texto": "Suas flores são pequenas e raras, mas elas atraem muitos insetos que ajudam na polinização da árvore!",
-        "imagem": "gr197curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr197curiosidade3.jpg"
       }
     ],
     "pergunta": "O que protege a árvore Eschweilera coriacea?",
@@ -1401,17 +1401,17 @@ export const dados = [
       {
         "titulo": "Uma árvore resistente!",
         "texto": "A Eschweilera coriacea tem uma casca bem grossa que a protege de muitos animais e até do fogo!",
-        "imagem": "gr197curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr197curiosidade1.jpg"
       },
       {
         "titulo": "Frutos que ajudam a floresta!",
         "texto": "Seus frutos são comidas por muitos animais que, ao se alimentar, espalham as sementes por toda a floresta.",
-        "imagem": "gr197curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr197curiosidade2.jpg"
       },
       {
         "titulo": "As flores são segredo da natureza!",
         "texto": "Suas flores são pequenas e raras, mas elas atraem muitos insetos que ajudam na polinização da árvore!",
-        "imagem": "gr197curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr197curiosidade3.jpg"
       }
     ],
     "pergunta": "O que protege a árvore Eschweilera coriacea?",
@@ -1449,17 +1449,17 @@ export const dados = [
       {
         "titulo": "Uma árvore resistente!",
         "texto": "A Eschweilera coriacea tem uma casca bem grossa que a protege de muitos animais e até do fogo!",
-        "imagem": "gr197curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr197curiosidade1.jpg"
       },
       {
         "titulo": "Frutos que ajudam a floresta!",
         "texto": "Seus frutos são comidas por muitos animais que, ao se alimentar, espalham as sementes por toda a floresta.",
-        "imagem": "gr197curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr197curiosidade2.jpg"
       },
       {
         "titulo": "As flores são segredo da natureza!",
         "texto": "Suas flores são pequenas e raras, mas elas atraem muitos insetos que ajudam na polinização da árvore!",
-        "imagem": "gr197curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr197curiosidade3.jpg"
       }
     ],
     "pergunta": "O que protege a árvore Eschweilera coriacea?",
@@ -1497,17 +1497,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr182curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr182curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr182curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr182curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr182curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr182curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1545,17 +1545,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr188curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr188curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr188curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr188curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr188curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr188curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1593,17 +1593,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr193curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr193curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr193curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr193curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr193curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr193curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1641,17 +1641,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr212curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr212curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr212curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr212curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr212curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr212curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1689,17 +1689,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr177curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr177curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr177curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr177curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr177curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr177curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1737,17 +1737,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr215curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr215curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr215curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr215curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr215curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr215curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1785,17 +1785,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr209curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr209curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr209curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr209curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr209curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr209curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1833,17 +1833,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr217curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr217curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr217curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr217curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr217curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr217curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1881,17 +1881,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr228curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr228curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr228curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr228curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr228curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr228curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1929,17 +1929,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr218curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr218curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr218curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr218curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr218curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr218curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1977,17 +1977,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr191curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr191curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr191curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr191curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr191curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr191curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2025,17 +2025,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr216curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr216curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr216curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr216curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr216curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr216curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2073,17 +2073,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr195curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr195curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr195curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr195curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr195curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr195curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2121,17 +2121,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr236curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr236curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr236curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr236curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr236curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr236curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2169,17 +2169,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr205curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr205curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr205curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr205curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr205curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr205curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2217,17 +2217,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr219curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr219curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr219curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr219curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr219curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr219curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2265,17 +2265,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr250curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr250curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr250curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr250curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr250curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr250curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2313,17 +2313,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr230curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr230curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr230curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr230curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr230curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr230curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2361,17 +2361,17 @@ export const dados = [
       {
         "titulo": " Primo do chocolate! 🍫😋",
         "texto": "Sabia que o cupuaçu é primo do cacau, a fruta que faz o chocolate? Eles são da mesma família! Mas o cupuaçu tem um sabor único, azedinho e docinho ao mesmo tempo! 😋",
-        "imagem": "gr234curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr234curiosidade1.jpg"
       },
       {
         "titulo": "Cheirinho irresistível!👃🤤",
         "texto": "O cupuaçu tem um cheirinho delicioso que dá água na boca! É uma mistura de chocolate com abacaxi e banana! Hummm... Que vontade de comer! 😋🤤",
-        "imagem": "gr234curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr234curiosidade2.jpg"
       },
       {
         "titulo": "Tesouro da Amazônia! 🌳✨",
         "texto": "O cupuaçu é um fruto típico da Amazônia! Ele adora o clima quente e úmido da floresta! É um verdadeiro tesouro da nossa região! 🇧🇷💚",
-        "imagem": "gr234curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr234curiosidade3.jpg"
       }
     ],
     "pergunta": "Qual fruta é parente do cupuaçu?",
@@ -2409,17 +2409,17 @@ export const dados = [
       {
         "titulo": " Primo do chocolate! 🍫😋",
         "texto": "Sabia que o cupuaçu é primo do cacau, a fruta que faz o chocolate? Eles são da mesma família! Mas o cupuaçu tem um sabor único, azedinho e docinho ao mesmo tempo! 😋",
-        "imagem": "gr234curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr234curiosidade1.jpg"
       },
       {
         "titulo": "Cheirinho irresistível!👃🤤",
         "texto": "O cupuaçu tem um cheirinho delicioso que dá água na boca! É uma mistura de chocolate com abacaxi e banana! Hummm... Que vontade de comer! 😋🤤",
-        "imagem": "gr234curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr234curiosidade2.jpg"
       },
       {
         "titulo": "Tesouro da Amazônia! 🌳✨",
         "texto": "O cupuaçu é um fruto típico da Amazônia! Ele adora o clima quente e úmido da floresta! É um verdadeiro tesouro da nossa região! 🇧🇷💚",
-        "imagem": "gr234curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr234curiosidade3.jpg"
       }
     ],
     "pergunta": "Qual fruta é parente do cupuaçu?",
@@ -2457,17 +2457,17 @@ export const dados = [
       {
         "titulo": " Primo do chocolate! 🍫😋",
         "texto": "Sabia que o cupuaçu é primo do cacau, a fruta que faz o chocolate? Eles são da mesma família! Mas o cupuaçu tem um sabor único, azedinho e docinho ao mesmo tempo! 😋",
-        "imagem": "gr234curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr234curiosidade1.jpg"
       },
       {
         "titulo": "Cheirinho irresistível!👃🤤",
         "texto": "O cupuaçu tem um cheirinho delicioso que dá água na boca! É uma mistura de chocolate com abacaxi e banana! Hummm... Que vontade de comer! 😋🤤",
-        "imagem": "gr234curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr234curiosidade2.jpg"
       },
       {
         "titulo": "Tesouro da Amazônia! 🌳✨",
         "texto": "O cupuaçu é um fruto típico da Amazônia! Ele adora o clima quente e úmido da floresta! É um verdadeiro tesouro da nossa região! 🇧🇷💚",
-        "imagem": "gr234curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr234curiosidade3.jpg"
       }
     ],
     "pergunta": "Qual fruta é parente do cupuaçu?",
@@ -2505,17 +2505,17 @@ export const dados = [
       {
         "titulo": " Primo do chocolate! 🍫😋",
         "texto": "Sabia que o cupuaçu é primo do cacau, a fruta que faz o chocolate? Eles são da mesma família! Mas o cupuaçu tem um sabor único, azedinho e docinho ao mesmo tempo! 😋",
-        "imagem": "gr234curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr234curiosidade1.jpg"
       },
       {
         "titulo": "Cheirinho irresistível!👃🤤",
         "texto": "O cupuaçu tem um cheirinho delicioso que dá água na boca! É uma mistura de chocolate com abacaxi e banana! Hummm... Que vontade de comer! 😋🤤",
-        "imagem": "gr234curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr234curiosidade2.jpg"
       },
       {
         "titulo": "Tesouro da Amazônia! 🌳✨",
         "texto": "O cupuaçu é um fruto típico da Amazônia! Ele adora o clima quente e úmido da floresta! É um verdadeiro tesouro da nossa região! 🇧🇷💚",
-        "imagem": "gr234curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr234curiosidade3.jpg"
       }
     ],
     "pergunta": "Qual fruta é parente do cupuaçu?",
@@ -2553,17 +2553,17 @@ export const dados = [
       {
         "titulo": " Primo do chocolate! 🍫😋",
         "texto": "Sabia que o cupuaçu é primo do cacau, a fruta que faz o chocolate? Eles são da mesma família! Mas o cupuaçu tem um sabor único, azedinho e docinho ao mesmo tempo! 😋",
-        "imagem": "gr234curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr234curiosidade1.jpg"
       },
       {
         "titulo": "Cheirinho irresistível!👃🤤",
         "texto": "O cupuaçu tem um cheirinho delicioso que dá água na boca! É uma mistura de chocolate com abacaxi e banana! Hummm... Que vontade de comer! 😋🤤",
-        "imagem": "gr234curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr234curiosidade2.jpg"
       },
       {
         "titulo": "Tesouro da Amazônia! 🌳✨",
         "texto": "O cupuaçu é um fruto típico da Amazônia! Ele adora o clima quente e úmido da floresta! É um verdadeiro tesouro da nossa região! 🇧🇷💚",
-        "imagem": "gr234curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr234curiosidade3.jpg"
       }
     ],
     "pergunta": "Qual fruta é parente do cupuaçu?",
@@ -2601,17 +2601,17 @@ export const dados = [
       {
         "titulo": " Primo do chocolate! 🍫😋",
         "texto": "Sabia que o cupuaçu é primo do cacau, a fruta que faz o chocolate? Eles são da mesma família! Mas o cupuaçu tem um sabor único, azedinho e docinho ao mesmo tempo! 😋",
-        "imagem": "gr234curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr234curiosidade1.jpg"
       },
       {
         "titulo": "Cheirinho irresistível!👃🤤",
         "texto": "O cupuaçu tem um cheirinho delicioso que dá água na boca! É uma mistura de chocolate com abacaxi e banana! Hummm... Que vontade de comer! 😋🤤",
-        "imagem": "gr234curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr234curiosidade2.jpg"
       },
       {
         "titulo": "Tesouro da Amazônia! 🌳✨",
         "texto": "O cupuaçu é um fruto típico da Amazônia! Ele adora o clima quente e úmido da floresta! É um verdadeiro tesouro da nossa região! 🇧🇷💚",
-        "imagem": "gr234curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr234curiosidade3.jpg"
       }
     ],
     "pergunta": "Qual fruta é parente do cupuaçu?",
@@ -2649,17 +2649,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr175curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr175curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr175curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr175curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr175curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr175curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2699,17 +2699,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr187curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr187curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr187curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr187curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr187curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr187curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2747,17 +2747,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr200curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr200curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr200curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr200curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr200curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr200curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2795,17 +2795,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr171curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr171curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr171curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr171curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr171curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr171curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2843,17 +2843,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr255curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr255curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr255curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr255curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr255curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr255curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2891,17 +2891,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr256curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr256curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr256curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr256curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr256curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr256curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2939,17 +2939,17 @@ export const dados = [
       {
         "titulo": "Fruta-caracol! 🐌",
         "texto": "Olha que engraçado! O fruto do Inharé parece um caracol enroladinho! 🐚 E você sabia que ele pode ser bem grandão, do tamanho da sua mão? 🖐️😮",
-        "imagem": "gr257curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr257curiosidade1.jpg"
       },
       {
         "titulo": "Lanchinho dos animais! 🐿️🐒",
         "texto": "Os animais da floresta adoram o Inharé! Esquilos, macacos e aves se deliciam com a polpa docinha e nutritiva dessa fruta! 😋 É um banquete para a galera! 🥳",
-        "imagem": "gr257curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr257curiosidade2.jpg"
       },
       {
         "titulo": "Árvore forte e imponente! 💪🌳",
         "texto": "A Helicostylis tomentosa pode crescer muito! Ela fica altíssima e com um tronco bem grosso, parecendo um gigante da floresta! 🌳 Que incrível! 🤩",
-        "imagem": "gr257curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr257curiosidade3.jpg"
       }
     ],
     "pergunta": "Com qual animal o fruto do Inharé se parece?",
@@ -2987,17 +2987,17 @@ export const dados = [
       {
         "titulo": "Fruta-caracol! 🐌",
         "texto": "Olha que engraçado! O fruto do Inharé parece um caracol enroladinho! 🐚 E você sabia que ele pode ser bem grandão, do tamanho da sua mão? 🖐️😮",
-        "imagem": "gr257curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr257curiosidade1.jpg"
       },
       {
         "titulo": "Lanchinho dos animais! 🐿️🐒",
         "texto": "Os animais da floresta adoram o Inharé! Esquilos, macacos e aves se deliciam com a polpa docinha e nutritiva dessa fruta! 😋 É um banquete para a galera! 🥳",
-        "imagem": "gr257curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr257curiosidade2.jpg"
       },
       {
         "titulo": "Árvore forte e imponente! 💪🌳",
         "texto": "A Helicostylis tomentosa pode crescer muito! Ela fica altíssima e com um tronco bem grosso, parecendo um gigante da floresta! 🌳 Que incrível! 🤩",
-        "imagem": "gr257curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr257curiosidade3.jpg"
       }
     ],
     "pergunta": "Com qual animal o fruto do Inharé se parece?",
@@ -3035,17 +3035,17 @@ export const dados = [
       {
         "titulo": "Fruta-caracol! 🐌",
         "texto": "Olha que engraçado! O fruto do Inharé parece um caracol enroladinho! 🐚 E você sabia que ele pode ser bem grandão, do tamanho da sua mão? 🖐️😮",
-        "imagem": "gr257curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr257curiosidade1.jpg"
       },
       {
         "titulo": "Lanchinho dos animais! 🐿️🐒",
         "texto": "Os animais da floresta adoram o Inharé! Esquilos, macacos e aves se deliciam com a polpa docinha e nutritiva dessa fruta! 😋 É um banquete para a galera! 🥳",
-        "imagem": "gr257curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr257curiosidade2.jpg"
       },
       {
         "titulo": "Árvore forte e imponente! 💪🌳",
         "texto": "A Helicostylis tomentosa pode crescer muito! Ela fica altíssima e com um tronco bem grosso, parecendo um gigante da floresta! 🌳 Que incrível! 🤩",
-        "imagem": "gr257curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr257curiosidade3.jpg"
       }
     ],
     "pergunta": "Com qual animal o fruto do Inharé se parece?",
@@ -3085,17 +3085,17 @@ export const dados = [
       {
         "titulo": "Fruta-caracol! 🐌",
         "texto": "Olha que engraçado! O fruto do Inharé parece um caracol enroladinho! 🐚 E você sabia que ele pode ser bem grandão, do tamanho da sua mão? 🖐️😮",
-        "imagem": "gr257curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr257curiosidade1.jpg"
       },
       {
         "titulo": "Lanchinho dos animais! 🐿️🐒",
         "texto": "Os animais da floresta adoram o Inharé! Esquilos, macacos e aves se deliciam com a polpa docinha e nutritiva dessa fruta! 😋 É um banquete para a galera! 🥳",
-        "imagem": "gr257curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr257curiosidade2.jpg"
       },
       {
         "titulo": "Árvore forte e imponente! 💪🌳",
         "texto": "A Helicostylis tomentosa pode crescer muito! Ela fica altíssima e com um tronco bem grosso, parecendo um gigante da floresta! 🌳 Que incrível! 🤩",
-        "imagem": "gr257curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr257curiosidade3.jpg"
       }
     ],
     "pergunta": "Com qual animal o fruto do Inharé se parece?",
@@ -3133,17 +3133,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr169curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr169curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr169curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr169curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr169curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr169curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -3181,17 +3181,17 @@ export const dados = [
       {
         "titulo": "Cheirinho de canela!👃✨",
         "texto": "As folhas da Ucuúba quando amassadas, liberam um cheirinho parecido com canela! Que tal experimentar e sentir esse aroma delicioso? 😋",
-        "imagem": "gr183curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr183curiosidade1.jpg"
       },
       {
         "titulo": " Frutos coloridos! 🍎🎨",
         "texto": "Os frutos da Ucuúba chamam atenção pelas cores vibrantes! Eles são vermelhos por fora e laranjas por dentro, parecendo pequenas obras de arte da natureza! 🖼️",
-        "imagem": "gr183curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr183curiosidade2.jpg"
       },
       {
         "titulo": "Amiga dos animais! 🐦🐿️",
         "texto": "A Ucuúba é uma árvore importante para os animais da floresta! Seus frutos servem de alimento para aves e roedores, que ajudam a espalhar suas sementes. 🤝🌳",
-        "imagem": "gr183curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr183curiosidade3.jpg"
       }
     ],
     "pergunta": "Qual é a cor da parte interna do fruto da Ucuúba?",
@@ -3229,17 +3229,17 @@ export const dados = [
       {
         "titulo": "Cheirinho de canela!👃✨",
         "texto": "As folhas da Ucuúba quando amassadas, liberam um cheirinho parecido com canela! Que tal experimentar e sentir esse aroma delicioso? 😋",
-        "imagem": "gr183curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr183curiosidade1.jpg"
       },
       {
         "titulo": " Frutos coloridos! 🍎🎨",
         "texto": "Os frutos da Ucuúba chamam atenção pelas cores vibrantes! Eles são vermelhos por fora e laranjas por dentro, parecendo pequenas obras de arte da natureza! 🖼️",
-        "imagem": "gr183curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr183curiosidade2.jpg"
       },
       {
         "titulo": "Amiga dos animais! 🐦🐿️",
         "texto": "A Ucuúba é uma árvore importante para os animais da floresta! Seus frutos servem de alimento para aves e roedores, que ajudam a espalhar suas sementes. 🤝🌳",
-        "imagem": "gr183curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr183curiosidade3.jpg"
       }
     ],
     "pergunta": "Qual é a cor da parte interna do fruto da Ucuúba?",
@@ -3277,17 +3277,17 @@ export const dados = [
       {
         "titulo": "Cheirinho de canela!👃✨",
         "texto": "As folhas da Ucuúba quando amassadas, liberam um cheirinho parecido com canela! Que tal experimentar e sentir esse aroma delicioso? 😋",
-        "imagem": "gr183curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr183curiosidade1.jpg"
       },
       {
         "titulo": " Frutos coloridos! 🍎🎨",
         "texto": "Os frutos da Ucuúba chamam atenção pelas cores vibrantes! Eles são vermelhos por fora e laranjas por dentro, parecendo pequenas obras de arte da natureza! 🖼️",
-        "imagem": "gr183curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr183curiosidade2.jpg"
       },
       {
         "titulo": "Amiga dos animais! 🐦🐿️",
         "texto": "A Ucuúba é uma árvore importante para os animais da floresta! Seus frutos servem de alimento para aves e roedores, que ajudam a espalhar suas sementes. 🤝🌳",
-        "imagem": "gr183curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr183curiosidade3.jpg"
       }
     ],
     "pergunta": "Qual é a cor da parte interna do fruto da Ucuúba?",
@@ -3325,17 +3325,17 @@ export const dados = [
       {
         "titulo": "Cheirinho de canela!👃✨",
         "texto": "As folhas da Ucuúba quando amassadas, liberam um cheirinho parecido com canela! Que tal experimentar e sentir esse aroma delicioso? 😋",
-        "imagem": "gr183curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr183curiosidade1.jpg"
       },
       {
         "titulo": " Frutos coloridos! 🍎🎨",
         "texto": "Os frutos da Ucuúba chamam atenção pelas cores vibrantes! Eles são vermelhos por fora e laranjas por dentro, parecendo pequenas obras de arte da natureza! 🖼️",
-        "imagem": "gr183curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr183curiosidade2.jpg"
       },
       {
         "titulo": "Amiga dos animais! 🐦🐿️",
         "texto": "A Ucuúba é uma árvore importante para os animais da floresta! Seus frutos servem de alimento para aves e roedores, que ajudam a espalhar suas sementes. 🤝🌳",
-        "imagem": "gr183curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr183curiosidade3.jpg"
       }
     ],
     "pergunta": "Qual é a cor da parte interna do fruto da Ucuúba?",
@@ -3373,17 +3373,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr220curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr220curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr220curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr220curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr220curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr220curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -3423,17 +3423,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr231curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr231curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr231curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr231curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr231curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr231curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -3471,17 +3471,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr227curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr227curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr227curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr227curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "gr227curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr227curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -3519,17 +3519,17 @@ export const dados = [
       {
         "titulo": "Gigante das folhas! 🍃😲",
         "texto": "A Coccoloba tem folhas enormes, que parecem leques gigantes! Elas podem até chegar a 2 metros de comprimento! Uau! 😱 Imagina só o tamanho da sombra que essa árvore faz! 😎",
-        "imagem": "gr184curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr184curiosidade1.jpg"
       },
       {
         "titulo": "Frutinhas docinhas! 😋🍇",
         "texto": "A Coccoloba dá frutinhas que parecem uvas e são bem gostosas! Elas nascem em cachos e têm um sabor que lembra a goiaba. Hummm... Que delícia! 😋😋😋",
-        "imagem": "gr184curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr184curiosidade2.jpg"
       },
       {
         "titulo": "Folhas gigantes, tronco fininho! 🌳🍃",
         "texto": "É engraçado! A Coccoloba tem folhas enormes, mas o tronco dela é bem fininho! Parece até que ele vai quebrar com o peso, mas é super forte! 💪😅",
-        "imagem": "gr184curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr184curiosidade3.jpg"
       }
     ],
     "pergunta": "O que a Coccoloba produz que parecem uvas?",
@@ -3567,17 +3567,17 @@ export const dados = [
       {
         "titulo": "Fruta ou Pedra? 🤔",
         "texto": "De longe, a Moela de Mutum parece uma pedra marrom! Mas chegue mais perto e você verá que é uma fruta diferente, com casca dura e formato engraçado! 😂",
-        "imagem": "gr247curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr247curiosidade1.jpg"
       },
       {
         "titulo": "Casca protetora! 🛡️",
         "texto": "A casca da Moela de Mutum é super dura e protege a semente lá dentro! É como uma armadura para que nada de ruim aconteça com ela! 💪",
-        "imagem": "gr247curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr247curiosidade2.jpg"
       },
       {
         "titulo": "Mistério no nome! 🕵️‍♀️",
         "texto": "Por que Moela de Mutum? Ninguém sabe ao certo! 🤔 Talvez porque a fruta seja dura como a moela da ave... ou porque o mutum adora comê-la! 🐦 Qual será o segredo? 🤫",
-        "imagem": "gr247curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr247curiosidade3.jpg"
       }
     ],
     "pergunta": "O que as sementes da Moela de Mutum têm que ajuda a se proteger pela floresta?",
@@ -3612,17 +3612,17 @@ export const dados = [
       {
         "titulo": "Fruta ou Pedra? 🤔",
         "texto": "De longe, a Moela de Mutum parece uma pedra marrom! Mas chegue mais perto e você verá que é uma fruta diferente, com casca dura e formato engraçado! 😂",
-        "imagem": "gr247curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr247curiosidade1.jpg"
       },
       {
         "titulo": "Casca protetora! 🛡️",
         "texto": "A casca da Moela de Mutum é super dura e protege a semente lá dentro! É como uma armadura para que nada de ruim aconteça com ela! 💪",
-        "imagem": "gr247curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr247curiosidade2.jpg"
       },
       {
         "titulo": "Mistério no nome! 🕵️‍♀️",
         "texto": "Por que Moela de Mutum? Ninguém sabe ao certo! 🤔 Talvez porque a fruta seja dura como a moela da ave... ou porque o mutum adora comê-la! 🐦 Qual será o segredo? 🤫",
-        "imagem": "gr247curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr247curiosidade3.jpg"
       }
     ],
     "pergunta": "O que as sementes da Moela de Mutum têm que ajuda a se proteger pela floresta?",
@@ -3660,17 +3660,17 @@ export const dados = [
       {
         "titulo": "Fruta ou Pedra? 🤔",
         "texto": "De longe, a Moela de Mutum parece uma pedra marrom! Mas chegue mais perto e você verá que é uma fruta diferente, com casca dura e formato engraçado! 😂",
-        "imagem": "gr247curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr247curiosidade1.jpg"
       },
       {
         "titulo": "Casca protetora! 🛡️",
         "texto": "A casca da Moela de Mutum é super dura e protege a semente lá dentro! É como uma armadura para que nada de ruim aconteça com ela! 💪",
-        "imagem": "gr247curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr247curiosidade2.jpg"
       },
       {
         "titulo": "Mistério no nome! 🕵️‍♀️",
         "texto": "Por que Moela de Mutum? Ninguém sabe ao certo! 🤔 Talvez porque a fruta seja dura como a moela da ave... ou porque o mutum adora comê-la! 🐦 Qual será o segredo? 🤫",
-        "imagem": "gr247curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr247curiosidade3.jpg"
       }
     ],
     "pergunta": "O que as sementes da Moela de Mutum têm que ajuda a se proteger pela floresta?",
@@ -3708,17 +3708,17 @@ export const dados = [
       {
         "titulo": "Grãos mágicos! ✨☕",
         "texto": "Sabia que os grãos de café são, na verdade, sementes? E que dentro delas se esconde uma bebida mágica que te deixa acordado e cheio de energia? 😮 Incrível, né?",
-        "imagem": "gr233curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr233curiosidade1.jpg"
       },
       {
         "titulo": "Viajante do mundo! ✈️🌎",
         "texto": "O café arábica nasceu na Etiópia, na África, mas viajou o mundo todo e hoje é cultivado em vários lugares! Que aventureiro! 🗺️",
-        "imagem": "gr233curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr233curiosidade2.jpg"
       },
       {
         "titulo": " Amigo da natureza! 🌳🐦",
         "texto": "O cafezal é como uma floresta! Ele ajuda a proteger o solo, a água e ainda serve de casa para muitos animais! Que legal! 🏡🐒",
-        "imagem": "gr233curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr233curiosidade3.jpg"
       }
     ],
     "pergunta": "De onde veio o café arábica?",
@@ -3755,17 +3755,17 @@ export const dados = [
       {
         "titulo": " Lar doce lar! 🐜🏡",
         "texto": "A Duroia é como um hotel para formigas! Elas moram dentro dos galhos ocos e protegem a árvore de outros insetos! Que parceria legal, né? 🤝",
-        "imagem": "gr185curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr185curiosidade1.jpg"
       },
       {
         "titulo": "Jardim secreto! 🌳🤫",
         "texto": "As formigas que moram na Duroia são jardineiras! Elas cuidam do espaço ao redor da árvore, tirando outras plantas que podem fazer sombra. É o jardim secreto delas! 🐜🌿✨",
-        "imagem": "gr185curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr185curiosidade2.jpg"
       },
       {
         "titulo": " Frutos saborosos! 😋",
         "texto": "A Duroia também dá frutos que parecem pequenas maçãs! Eles são comestíveis e os animais adoram! Hummm... Que delícia! 🍎😋",
-        "imagem": "gr185curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr185curiosidade3.jpg"
       }
     ],
     "pergunta": "Quem são as jardineiras que cuidam do espaço ao redor da Duroia?",
@@ -3803,17 +3803,17 @@ export const dados = [
       {
         "titulo": " Docinho que nem caju! 😋",
         "texto": "Adivinha só? O cajuzinho tem esse nome porque o seu fruto parece um caju pequenininho! E o sabor? Ah, esse é docinho e irresistível! 😋😋😋",
-        "imagem": "gr174curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr174curiosidade1.jpg"
       },
       {
         "titulo": "Árvore mágica! ✨🌳",
         "texto": "Sabia que a casca do cajuzinho era usada pelos índios para fazer tinta? Eles pintavam o corpo e faziam desenhos incríveis! Que legal, né? 🎨🥳",
-        "imagem": "gr174curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr174curiosidade2.jpg"
       },
       {
         "titulo": "Esconde-esconde com os bichos! 🐿️🐦",
         "texto": "Os frutos do cajuzinho são tão gostosos que atraem um montão de aves e pequenos mamíferos! Eles adoram brincar de esconde-esconde entre os galhos da árvore! Que divertido! 🤩",
-        "imagem": "gr174curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr174curiosidade3.jpg"
       }
     ],
     "pergunta": "Por que a Cupania scrobiculata é chamada de cajuzinho?",
@@ -3851,17 +3851,17 @@ export const dados = [
       {
         "titulo": " Docinho que nem caju! 😋",
         "texto": "Adivinha só? O cajuzinho tem esse nome porque o seu fruto parece um caju pequenininho! E o sabor? Ah, esse é docinho e irresistível! 😋😋😋",
-        "imagem": "gr174curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr174curiosidade1.jpg"
       },
       {
         "titulo": "Árvore mágica! ✨🌳",
         "texto": "Sabia que a casca do cajuzinho era usada pelos índios para fazer tinta? Eles pintavam o corpo e faziam desenhos incríveis! Que legal, né? 🎨🥳",
-        "imagem": "gr174curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr174curiosidade2.jpg"
       },
       {
         "titulo": "Esconde-esconde com os bichos! 🐿️🐦",
         "texto": "Os frutos do cajuzinho são tão gostosos que atraem um montão de aves e pequenos mamíferos! Eles adoram brincar de esconde-esconde entre os galhos da árvore! Que divertido! 🤩",
-        "imagem": "gr174curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr174curiosidade3.jpg"
       }
     ],
     "pergunta": "Por que a Cupania scrobiculata é chamada de cajuzinho?",
@@ -3899,17 +3899,17 @@ export const dados = [
       {
         "titulo": "Chuva de pitombas! 🌧️😋",
         "texto": "Quando a pitombeira fica carregada de frutos maduros, parece que vai chover pitomba! É uma festa para quem gosta dessa fruta docinha! 🎉",
-        "imagem": "gr237curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr237curiosidade1.jpg"
       },
       {
         "titulo": "Irmã da lichia! 👯‍♀️",
         "texto": "Sabia que a pitomba é parente da lichia e do rambutão? Todas elas fazem parte da mesma família botânica! Que família reunida! 👨‍👩‍👧‍👦",
-        "imagem": "gr237curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr237curiosidade2.jpg"
       },
       {
         "titulo": " Doce ou azedinha? 🤔",
         "texto": "A pitomba pode ser doce ou um pouquinho azedinha, depende da árvore e de como ela foi cultivada! Qual você prefere? 😋",
-        "imagem": "gr237curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr237curiosidade3.jpg"
       }
     ],
     "pergunta": "Com qual fruta exótica a pitomba tem parentesco?",
@@ -3947,17 +3947,17 @@ export const dados = [
       {
         "titulo": "Uma família enorme! 👨‍👩‍👧‍👦",
         "texto": "Sabia que o gênero Micropholis tem mais de 50 espécies diferentes de árvores? É como uma família gigante espalhada pelas Américas! 🌎🌳",
-        "imagem": "gr201curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr201curiosidade1.jpg"
       },
       {
         "titulo": "Frutos deliciosos! 😋",
         "texto": "Muitas árvores do gênero Micropholis dão frutos gostosos que os animais adoram! Alguns parecem pequenas mangas e outros, jabuticabas! 😋🐒",
-        "imagem": "gr201curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr201curiosidade2.jpg"
       },
       {
         "titulo": "Madeira poderosa! 💪",
         "texto": "A madeira de algumas espécies de Micropholis é super resistente! É usada para fazer casas, móveis e até barcos! 🏠🛶 Incrível, né?",
-        "imagem": "gr201curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr201curiosidade3.jpg"
       }
     ],
     "pergunta": "O que algumas espécies de Micropholis produzem que os animais adoram comer?",
@@ -3995,17 +3995,17 @@ export const dados = [
       {
         "titulo": "Fruta-camaleão! 🦎",
         "texto": "A abiurana muda de cor! Quando nasce é verde, depois fica amarelo e, quando está maduro, fica laranja! 😮 Que mágica! ✨",
-        "imagem": "gr199curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr199curiosidade1.jpg"
       },
       {
         "titulo": " Gostinho de infância! 😋",
         "texto": "Já comeu paçoca de amendoim? A abiurana tem um gostinho parecido! É docinho e lembra a infância! Que delícia! 😋",
-        "imagem": "gr199curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr199curiosidade2.jpg"
       },
       {
         "titulo": "Semente gigante! 😲",
         "texto": "Sabia que a abiurana tem uma semente enorme? Dá para brincar de jogar e até fazer artesanato com ela! ⚽️🎨",
-        "imagem": "gr199curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr199curiosidade3.jpg"
       }
     ],
     "pergunta": "Qual dessas cores o cutite NÃO fica durante o seu crescimento?",
