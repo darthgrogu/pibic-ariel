@@ -50,9 +50,9 @@ function searchPlant() {
 
   const result = dados.find(
     (item) =>
-      item.id === parseInt(searchTerm) ||
+      item.plantid === searchTerm ||
       item.vernacular === searchTerm ||
-      item.nomecientifico === searchTerm
+      item.fullname === searchTerm
   );
 
   if (result !== undefined) {
@@ -150,19 +150,15 @@ function fillPageData(planta) {
 
   let vernacular = document.querySelector(".vernacular");
   let nomecientifico = document.querySelector(".nome-cientifico");
-  let autor = document.querySelector(".autor");
   let familia = document.querySelector(".familia");
   let codigo = document.querySelector(".codigo-indv");
-  let data_plantio = document.querySelector(".data-plantio-indv");
-  let coletas = document.querySelector(".coletas-indv");
 
   loadSlider(planta.imagelist);
 
   vernacular.textContent = planta.vernacular;
-  nomecientifico.textContent = planta.nomecientifico;
-  autor.textContent = planta.autor;
+  nomecientifico.textContent = planta.fullname;
   familia.textContent = planta.familia;
-  codigo.textContent = "Código: " + planta.codigo;
+  codigo.textContent = "Código: " + planta.plantid;
 
   //createOpenStreetMap(planta);
 
@@ -229,26 +225,22 @@ function mostrarTelaArvore() {
   document.getElementById("mobile-search-container").style.display = "flex";
   mostrarTelaArvoreFirstPage();
 }
-
 function mostrarHomepage() {
   document.getElementById("tela-arvore").style.display = "none";
   document.getElementById("homepage").style.display = "block";
 }
-
 function mostrarTelaArvoreFirstPage() {
   document.getElementById("tela-arvore-first-page").style.display = "block";
   document.getElementById("tela-arvore-notfound").style.display = "none";
   document.getElementById("tela-arvore-plantinfo").style.display = "none";
   document.getElementById("tela-arvore-unknown").style.display = "none";
 }
-
 function mostrarTelaArvoreNotFound() {
   document.getElementById("tela-arvore-first-page").style.display = "none";
   document.getElementById("tela-arvore-notfound").style.display = "block";
   document.getElementById("tela-arvore-plantinfo").style.display = "none";
   document.getElementById("tela-arvore-unknown").style.display = "none";
 }
-
 function mostrarTelaArvorePlantInfo() {
   document.getElementById("tela-arvore-first-page").style.display = "none";
   document.getElementById("tela-arvore-notfound").style.display = "none";
