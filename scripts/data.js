@@ -43,8 +43,8 @@ export const dados = [
     ],
     "frasesecreta": "O cajá é o azedinho que refresca a floresta e alegra os animais!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR229-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR229-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR229-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR229-20250117-1.jpg"
     ]
   },
   {
@@ -91,8 +91,8 @@ export const dados = [
     ],
     "frasesecreta": "A Annona insignis é o segredo doce da floresta que encanta abelhas e pessoas!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR246-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR246-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR246-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR246-20250117-1.jpg"
     ]
   },
   {
@@ -139,8 +139,8 @@ export const dados = [
     ],
     "frasesecreta": "A Attalea maripa é a gigante da floresta, que alimenta e encanta a todos!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR172-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR172-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR172-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR172-20250117-1.jpg"
     ]
   },
   {
@@ -187,8 +187,8 @@ export const dados = [
     ],
     "frasesecreta": "O açaí é energia pura da Amazônia!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR210-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR210-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR210-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR210-20250117-1.jpg"
     ]
   },
   {
@@ -235,8 +235,8 @@ export const dados = [
     ],
     "frasesecreta": "O açaí é energia pura da Amazônia!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR221-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR221-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR221-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR221-20250117-1.jpg"
     ]
   },
   {
@@ -283,8 +283,8 @@ export const dados = [
     ],
     "frasesecreta": "O açaí é energia pura da Amazônia!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR235-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR235-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR235-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR235-20250117-1.jpg"
     ]
   },
   {
@@ -331,8 +331,8 @@ export const dados = [
     ],
     "frasesecreta": "A Euterpe precatoria é o açaí-solteiro que dá energia e vida à floresta!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR208-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR208-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR208-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR208-20250117-1.jpg"
     ]
   },
   {
@@ -379,8 +379,8 @@ export const dados = [
     ],
     "frasesecreta": "A Euterpe precatoria é o açaí-solteiro que dá energia e vida à floresta!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR214-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR214-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR214-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR214-20250117-1.jpg"
     ]
   },
   {
@@ -427,8 +427,8 @@ export const dados = [
     ],
     "frasesecreta": "A Euterpe precatoria é o açaí-solteiro que dá energia e vida à floresta!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR239-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR239-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR239-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR239-20250117-1.jpg"
     ]
   },
   {
@@ -475,8 +475,8 @@ export const dados = [
     ],
     "frasesecreta": "A Euterpe precatoria é o açaí-solteiro que dá energia e vida à floresta!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR213-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR213-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR213-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR213-20250117-1.jpg"
     ]
   },
   {
@@ -523,8 +523,8 @@ export const dados = [
     ],
     "frasesecreta": "A bacaba é o sabor da floresta, cheia de vida e cor!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR181-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR181-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR181-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR181-20250117-1.jpg"
     ]
   },
   {
@@ -571,8 +571,8 @@ export const dados = [
     ],
     "frasesecreta": "A Protium apiculatum é o cheirinho da floresta, que encanta e protege a natureza!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR243-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR243-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR243-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR243-20250117-1.jpg"
     ]
   },
   {
@@ -619,8 +619,8 @@ export const dados = [
     ],
     "frasesecreta": "A Protium ferrugineum é a árvore colorida que protege e enche a floresta de vida!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR190-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR190-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR190-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR190-20250117-1.jpg"
     ]
   },
   {
@@ -667,8 +667,8 @@ export const dados = [
     ],
     "frasesecreta": "A Protium rhoifolium é o perfume da floresta que cuida da natureza e dos animais!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR178-20250118-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR178-20250118-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR178-20250118-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR178-20250118-1.jpg"
     ]
   },
   {
@@ -715,8 +715,8 @@ export const dados = [
     ],
     "frasesecreta": "A Protium rhoifolium é o perfume da floresta que cuida da natureza e dos animais!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR189-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR189-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR189-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR189-20250117-1.jpg"
     ]
   },
   {
@@ -763,8 +763,8 @@ export const dados = [
     ],
     "frasesecreta": "A Protium rhoifolium é o perfume da floresta que cuida da natureza e dos animais!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR179-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR179-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR179-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR179-20250117-1.jpg"
     ]
   },
   {
@@ -811,8 +811,8 @@ export const dados = [
     ],
     "frasesecreta": "A Couepia é a amiga da floresta que cuida da gente e dos bichos com seus frutos e sementes!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR194-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR194-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR194-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR194-20250117-1.jpg"
     ]
   },
   {
@@ -859,8 +859,8 @@ export const dados = [
     ],
     "frasesecreta": "A Moquilea brittoniana é a árvore misteriosa que mantém a floresta viva e cheia de segredos!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR196-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR196-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR196-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR196-20250117-1.jpg"
     ]
   },
   {
@@ -907,8 +907,8 @@ export const dados = [
     ],
     "frasesecreta": "A Moquilea tomentosa é a árvore que se esconde na floresta, cheia de charme e mistério!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR232-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR232-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR232-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR232-20250117-1.jpg"
     ]
   },
   {
@@ -955,8 +955,8 @@ export const dados = [
     ],
     "frasesecreta": "A Moquilea tomentosa é a árvore que se esconde na floresta, cheia de charme e mistério!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR222-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR222-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR222-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR222-20250117-1.jpg"
     ]
   },
   {
@@ -1003,8 +1003,8 @@ export const dados = [
     ],
     "frasesecreta": "A Moquilea tomentosa é a árvore que se esconde na floresta, cheia de charme e mistério!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR223-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR223-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR223-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR223-20250117-1.jpg"
     ]
   },
   {
@@ -1051,8 +1051,8 @@ export const dados = [
     ],
     "frasesecreta": "A Moquilea tomentosa é a árvore que se esconde na floresta, cheia de charme e mistério!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR225-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR225-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR225-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR225-20250117-1.jpg"
     ]
   },
   {
@@ -1099,8 +1099,8 @@ export const dados = [
     ],
     "frasesecreta": "A Moquilea tomentosa é a árvore que se esconde na floresta, cheia de charme e mistério!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR224-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR224-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR224-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR224-20250117-1.jpg"
     ]
   },
   {
@@ -1147,8 +1147,8 @@ export const dados = [
     ],
     "frasesecreta": "A Terminalia grandis é a árvore gigante que brilha com suas folhas douradas e cresce forte como um sonho!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR168-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR168-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR168-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR168-20250117-1.jpg"
     ]
   },
   {
@@ -1195,8 +1195,8 @@ export const dados = [
     ],
     "frasesecreta": "A Diospyros é uma árvore cheia de sabor e cores, oferecendo frutos doces para quem a encontra!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR251-20250118-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR251-20250118-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR251-20250118-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR251-20250118-1.jpg"
     ]
   },
   {
@@ -1243,8 +1243,8 @@ export const dados = [
     ],
     "frasesecreta": "A Sloanea é uma árvore misteriosa que brilha com suas folhas e espalha vida na floresta!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR180-20250118-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR180-20250118-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR180-20250118-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR180-20250118-1.jpg"
     ]
   },
   {
@@ -1291,8 +1291,8 @@ export const dados = [
     ],
     "frasesecreta": "A Goupia glabra é uma gigante da floresta, cheia de vida e força!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR241-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR241-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR241-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR241-20250117-1.jpg"
     ]
   },
   {
@@ -1339,8 +1339,8 @@ export const dados = [
     ],
     "frasesecreta": "A Eschweilera coriacea é uma árvore forte, que protege a floresta e espalha vida!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR192-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR192-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR192-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR192-20250117-1.jpg"
     ]
   },
   {
@@ -1387,8 +1387,8 @@ export const dados = [
     ],
     "frasesecreta": "A Eschweilera coriacea é uma árvore forte, que protege a floresta e espalha vida!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR197-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR197-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR197-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR197-20250117-1.jpg"
     ]
   },
   {
@@ -1435,8 +1435,8 @@ export const dados = [
     ],
     "frasesecreta": "A Eschweilera coriacea é uma árvore forte, que protege a floresta e espalha vida!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR207-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR207-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR207-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR207-20250117-1.jpg"
     ]
   },
   {
@@ -1483,8 +1483,8 @@ export const dados = [
     ],
     "frasesecreta": "A Eschweilera coriacea é uma árvore forte, que protege a floresta e espalha vida!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR252-20250118-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR252-20250118-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR252-20250118-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR252-20250118-1.jpg"
     ]
   },
   {
@@ -1531,8 +1531,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR182-20250118-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR182-20250118-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR182-20250118-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR182-20250118-1.jpg"
     ]
   },
   {
@@ -1579,8 +1579,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR188-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR188-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR188-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR188-20250117-1.jpg"
     ]
   },
   {
@@ -1627,8 +1627,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR193-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR193-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR193-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR193-20250117-1.jpg"
     ]
   },
   {
@@ -1675,8 +1675,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR212-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR212-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR212-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR212-20250117-1.jpg"
     ]
   },
   {
@@ -1723,8 +1723,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR177-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR177-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR177-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR177-20250117-1.jpg"
     ]
   },
   {
@@ -1771,8 +1771,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR215-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR215-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR215-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR215-20250117-1.jpg"
     ]
   },
   {
@@ -1819,8 +1819,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR209-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR209-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR209-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR209-20250117-1.jpg"
     ]
   },
   {
@@ -1867,8 +1867,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR217-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR217-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR217-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR217-20250117-1.jpg"
     ]
   },
   {
@@ -1915,8 +1915,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR228-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR228-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR228-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR228-20250117-1.jpg"
     ]
   },
   {
@@ -1963,8 +1963,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR218-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR218-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR218-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR218-20250117-1.jpg"
     ]
   },
   {
@@ -2011,8 +2011,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR191-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR191-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR191-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR191-20250117-1.jpg"
     ]
   },
   {
@@ -2059,8 +2059,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR216-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR216-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR216-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR216-20250117-1.jpg"
     ]
   },
   {
@@ -2107,8 +2107,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR195-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR195-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR195-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR195-20250117-1.jpg"
     ]
   },
   {
@@ -2155,8 +2155,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR236-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR236-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR236-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR236-20250117-1.jpg"
     ]
   },
   {
@@ -2203,8 +2203,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR205-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR205-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR205-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR205-20250117-1.jpg"
     ]
   },
   {
@@ -2251,8 +2251,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR219-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR219-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR219-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR219-20250117-1.jpg"
     ]
   },
   {
@@ -2299,8 +2299,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR250-20250118-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR250-20250118-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR250-20250118-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR250-20250118-1.jpg"
     ]
   },
   {
@@ -2347,8 +2347,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR230-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR230-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR230-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR230-20250117-1.jpg"
     ]
   },
   {
@@ -2395,8 +2395,8 @@ export const dados = [
     ],
     "frasesecreta": "Cupuaçu: o sabor da Amazônia que conquista o mundo! 🌎😋",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR238-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR238-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR238-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR238-20250117-1.jpg"
     ]
   },
   {
@@ -2443,8 +2443,8 @@ export const dados = [
     ],
     "frasesecreta": "Cupuaçu: o sabor da Amazônia que conquista o mundo! 🌎😋",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR240-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR240-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR240-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR240-20250117-1.jpg"
     ]
   },
   {
@@ -2491,8 +2491,8 @@ export const dados = [
     ],
     "frasesecreta": "Cupuaçu: o sabor da Amazônia que conquista o mundo! 🌎😋",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR242-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR242-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR242-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR242-20250117-1.jpg"
     ]
   },
   {
@@ -2539,8 +2539,8 @@ export const dados = [
     ],
     "frasesecreta": "Cupuaçu: o sabor da Amazônia que conquista o mundo! 🌎😋",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR245-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR245-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR245-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR245-20250117-1.jpg"
     ]
   },
   {
@@ -2587,8 +2587,8 @@ export const dados = [
     ],
     "frasesecreta": "Cupuaçu: o sabor da Amazônia que conquista o mundo! 🌎😋",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR244-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR244-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR244-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR244-20250117-1.jpg"
     ]
   },
   {
@@ -2635,8 +2635,8 @@ export const dados = [
     ],
     "frasesecreta": "Cupuaçu: o sabor da Amazônia que conquista o mundo! 🌎😋",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR234-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR234-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR234-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR234-20250117-1.jpg"
     ]
   },
   {
@@ -2683,10 +2683,10 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR175-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR175-20250117-1.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR175-20250117-2.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR175-20250117-3.jpg"
+      "assets/img/arvore-page/tanimbuca/GR175-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR175-20250117-1.jpg",
+      "assets/img/arvore-page/tanimbuca/GR175-20250117-2.jpg",
+      "assets/img/arvore-page/tanimbuca/GR175-20250117-3.jpg"
     ]
   },
   {
@@ -2733,8 +2733,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR187-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR187-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR187-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR187-20250117-1.jpg"
     ]
   },
   {
@@ -2781,8 +2781,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR200-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR200-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR200-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR200-20250117-1.jpg"
     ]
   },
   {
@@ -2829,8 +2829,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR171-20250118-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR171-20250118-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR171-20250118-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR171-20250118-1.jpg"
     ]
   },
   {
@@ -2877,8 +2877,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR255-20250118-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR255-20250118-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR255-20250118-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR255-20250118-1.jpg"
     ]
   },
   {
@@ -2925,8 +2925,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR256-20250118-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR256-20250118-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR256-20250118-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR256-20250118-1.jpg"
     ]
   },
   {
@@ -2973,8 +2973,8 @@ export const dados = [
     ],
     "frasesecreta": "Helicostylis tomentosa: a gigante que alimenta a floresta!🌳🐿️",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR186-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR186-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR186-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR186-20250117-1.jpg"
     ]
   },
   {
@@ -3021,8 +3021,8 @@ export const dados = [
     ],
     "frasesecreta": "Helicostylis tomentosa: a gigante que alimenta a floresta!🌳🐿️",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR204-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR204-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR204-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR204-20250117-1.jpg"
     ]
   },
   {
@@ -3069,10 +3069,10 @@ export const dados = [
     ],
     "frasesecreta": "Helicostylis tomentosa: a gigante que alimenta a floresta!🌳🐿️",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/IMG_1285.jpg",
-      "/assets/img/arvore-page/tanimbuca/IMG_1287.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR253-20250118-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR253-20250118-1.jpg"
+      "assets/img/arvore-page/tanimbuca/IMG_1285.jpg",
+      "assets/img/arvore-page/tanimbuca/IMG_1287.jpg",
+      "assets/img/arvore-page/tanimbuca/GR253-20250118-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR253-20250118-1.jpg"
     ]
   },
   {
@@ -3119,8 +3119,8 @@ export const dados = [
     ],
     "frasesecreta": "Helicostylis tomentosa: a gigante que alimenta a floresta!🌳🐿️",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR257-20250118-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR257-20250118-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR257-20250118-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR257-20250118-1.jpg"
     ]
   },
   {
@@ -3167,8 +3167,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR169-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR169-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR169-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR169-20250117-1.jpg"
     ]
   },
   {
@@ -3215,8 +3215,8 @@ export const dados = [
     ],
     "frasesecreta": "Virola pavonis: a árvore perfumada que colore a floresta! 🌳🎨",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR183-20250118-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR183-20250118-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR183-20250118-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR183-20250118-1.jpg"
     ]
   },
   {
@@ -3263,8 +3263,8 @@ export const dados = [
     ],
     "frasesecreta": "Virola pavonis: a árvore perfumada que colore a floresta! 🌳🎨",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR198-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR198-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR198-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR198-20250117-1.jpg"
     ]
   },
   {
@@ -3311,8 +3311,8 @@ export const dados = [
     ],
     "frasesecreta": "Virola pavonis: a árvore perfumada que colore a floresta! 🌳🎨",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR173-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR173-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR173-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR173-20250117-1.jpg"
     ]
   },
   {
@@ -3359,8 +3359,8 @@ export const dados = [
     ],
     "frasesecreta": "Virola pavonis: a árvore perfumada que colore a floresta! 🌳🎨",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR254-20250118-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR254-20250118-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR254-20250118-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR254-20250118-1.jpg"
     ]
   },
   {
@@ -3407,10 +3407,10 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR220-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR220-20250117-1.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR220-20250117-2.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR220-20250117-3.jpg"
+      "assets/img/arvore-page/tanimbuca/GR220-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR220-20250117-1.jpg",
+      "assets/img/arvore-page/tanimbuca/GR220-20250117-2.jpg",
+      "assets/img/arvore-page/tanimbuca/GR220-20250117-3.jpg"
     ]
   },
   {
@@ -3457,8 +3457,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR231-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR231-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR231-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR231-20250117-1.jpg"
     ]
   },
   {
@@ -3505,8 +3505,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR227-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR227-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR227-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR227-20250117-1.jpg"
     ]
   },
   {
@@ -3553,8 +3553,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR184-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR184-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR184-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR184-20250117-1.jpg"
     ]
   },
   {
@@ -3646,8 +3646,8 @@ export const dados = [
     ],
     "frasesecreta": "Lacunaria jenmanii: a fruta que guarda mistérios da floresta! 🌳🕵️‍♀️",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR170-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR170-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR170-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR170-20250117-1.jpg"
     ]
   },
   {
@@ -3694,8 +3694,8 @@ export const dados = [
     ],
     "frasesecreta": "Lacunaria jenmanii: a fruta que guarda mistérios da floresta! 🌳🕵️‍♀️",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR247-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR247-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR247-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR247-20250117-1.jpg"
     ]
   },
   {
@@ -3742,7 +3742,7 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR233-20250117-0.jpg"
+      "assets/img/arvore-page/tanimbuca/GR233-20250117-0.jpg"
     ]
   },
   {
@@ -3789,8 +3789,8 @@ export const dados = [
     ],
     "frasesecreta": "Duroia: a árvore amiga das formigas! 🌳🐜❤️",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR185-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR185-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR185-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR185-20250117-1.jpg"
     ]
   },
   {
@@ -3837,8 +3837,8 @@ export const dados = [
     ],
     "frasesecreta": "Cupania scrobiculata: a árvore que adoça a vida! 🌳🍭",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR202-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR202-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR202-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR202-20250117-1.jpg"
     ]
   },
   {
@@ -3885,8 +3885,8 @@ export const dados = [
     ],
     "frasesecreta": "Cupania scrobiculata: a árvore que adoça a vida! 🌳🍭",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR174-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR174-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR174-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR174-20250117-1.jpg"
     ]
   },
   {
@@ -3933,8 +3933,8 @@ export const dados = [
     ],
     "frasesecreta": "Pitomba: a fruta brasileira que dá água na boca! 🤤💦",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR237-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR237-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR237-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR237-20250117-1.jpg"
     ]
   },
   {
@@ -3981,8 +3981,8 @@ export const dados = [
     ],
     "frasesecreta": "Micropholis: um presente da natureza para todos! 🎁🌳",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR201-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR201-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR201-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR201-20250117-1.jpg"
     ]
   },
   {
@@ -4029,8 +4029,8 @@ export const dados = [
     ],
     "frasesecreta": "Abiurana: a fruta colorida que alimenta e diverte! 🥳",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR199-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR199-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR199-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR199-20250117-1.jpg"
     ]
   }
 ]
