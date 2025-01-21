@@ -48,9 +48,11 @@ function searchPlant() {
     searchTerm = document.getElementById("mobile-search-box").value.trim();
   }
 
+  console.log("searchterm: " + searchTerm);
+  console.log(searchTerm.toUpperCase());
   const result = dados.find(
     (item) =>
-      item.plantid === searchTerm ||
+      item.plantid === searchTerm.toUpperCase() ||
       item.vernacular === searchTerm ||
       item.fullname === searchTerm
   );
