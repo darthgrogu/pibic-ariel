@@ -9,17 +9,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr229curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr229curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr229curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr229curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr229curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr229curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -43,8 +43,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR229-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR229-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR229-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR229-20250117-1.jpg"
     ]
   },
   {
@@ -57,17 +57,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr246curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr246curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr246curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr246curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr246curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr246curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -91,8 +91,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR246-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR246-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR246-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR246-20250117-1.jpg"
     ]
   },
   {
@@ -105,17 +105,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr172curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr172curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr172curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr172curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr172curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr172curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -139,8 +139,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR172-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR172-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR172-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR172-20250117-1.jpg"
     ]
   },
   {
@@ -153,17 +153,17 @@ export const dados = [
       {
         "titulo": "Uma palmeira com muitos nomes! 🌴",
         "texto": "Açaí, juçara, piná... Ufa! Essa palmeira tem um montão de nomes! Qual você usa aí na sua cidade? 🤔",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr210curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr210curiosidade1.jpg"
       },
       {
         "titulo": "Super-açaí: o herói da floresta! 💪",
         "texto": "Cheio de vitaminas e minerais, o açaí te deixa forte e esperto para brincar o dia todo! É ou não é um superalimento? 🦸‍♀️✨",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr210curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr210curiosidade2.jpg"
       },
       {
         "titulo": "Açaí: amigo dos bichos! 🐦🐒",
         "texto": "A palmeira do açaí é um festão para os animais! Seus frutos alimentam macacos, aves e até peixes! Que banquete! 🏡🥳",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr210curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr210curiosidade3.jpg"
       }
     ],
     "pergunta": "Qual desses nomes NÃO é usado para a palmeira Euterpe oleracea?",
@@ -187,8 +187,8 @@ export const dados = [
     ],
     "frasesecreta": "O açaí é energia pura da Amazônia!",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR210-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR210-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR210-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR210-20250117-1.jpg"
     ]
   },
   {
@@ -201,17 +201,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr221curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr221curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr221curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr221curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr221curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr221curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -235,8 +235,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR221-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR221-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR221-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR221-20250117-1.jpg"
     ]
   },
   {
@@ -249,17 +249,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr235curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr235curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr235curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr235curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr235curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr235curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -283,8 +283,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR235-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR235-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR235-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR235-20250117-1.jpg"
     ]
   },
   {
@@ -297,17 +297,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr208curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr208curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr208curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr208curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr208curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr208curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -331,8 +331,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR208-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR208-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR208-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR208-20250117-1.jpg"
     ]
   },
   {
@@ -345,17 +345,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr214curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr214curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr214curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr214curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr214curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr214curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -379,8 +379,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR214-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR214-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR214-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR214-20250117-1.jpg"
     ]
   },
   {
@@ -393,17 +393,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr239curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr239curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr239curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr239curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr239curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr239curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -427,8 +427,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR239-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR239-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR239-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR239-20250117-1.jpg"
     ]
   },
   {
@@ -441,17 +441,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr213curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr213curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr213curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr213curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr213curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr213curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -475,8 +475,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR213-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR213-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR213-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR213-20250117-1.jpg"
     ]
   },
   {
@@ -489,17 +489,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr181curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr181curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr181curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr181curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr181curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr181curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -523,8 +523,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR181-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR181-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR181-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR181-20250117-1.jpg"
     ]
   },
   {
@@ -537,17 +537,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr243curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr243curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr243curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr243curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr243curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr243curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -571,8 +571,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR243-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR243-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR243-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR243-20250117-1.jpg"
     ]
   },
   {
@@ -585,17 +585,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr190curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr190curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr190curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr190curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr190curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr190curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -619,8 +619,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR190-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR190-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR190-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR190-20250117-1.jpg"
     ]
   },
   {
@@ -633,17 +633,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr178curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr178curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr178curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr178curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr178curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr178curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -667,8 +667,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR178-20250118-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR178-20250118-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR178-20250118-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR178-20250118-1.jpg"
     ]
   },
   {
@@ -681,17 +681,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr189curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr189curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr189curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr189curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr189curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr189curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -715,8 +715,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR189-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR189-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR189-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR189-20250117-1.jpg"
     ]
   },
   {
@@ -729,17 +729,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr179curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr179curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr179curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr179curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr179curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr179curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -763,8 +763,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR179-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR179-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR179-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR179-20250117-1.jpg"
     ]
   },
   {
@@ -777,17 +777,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr194curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr194curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr194curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr194curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr194curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr194curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -811,8 +811,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR194-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR194-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR194-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR194-20250117-1.jpg"
     ]
   },
   {
@@ -825,17 +825,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr196curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr196curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr196curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr196curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr196curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr196curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -859,8 +859,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR196-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR196-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR196-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR196-20250117-1.jpg"
     ]
   },
   {
@@ -873,17 +873,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr232curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr232curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr232curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr232curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr232curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr232curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -907,8 +907,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR232-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR232-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR232-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR232-20250117-1.jpg"
     ]
   },
   {
@@ -921,17 +921,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr222curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr222curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr222curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr222curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr222curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr222curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -955,8 +955,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR222-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR222-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR222-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR222-20250117-1.jpg"
     ]
   },
   {
@@ -969,17 +969,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr223curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr223curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr223curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr223curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr223curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr223curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1003,8 +1003,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR223-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR223-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR223-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR223-20250117-1.jpg"
     ]
   },
   {
@@ -1017,17 +1017,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr225curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr225curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr225curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr225curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr225curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr225curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1051,8 +1051,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR225-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR225-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR225-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR225-20250117-1.jpg"
     ]
   },
   {
@@ -1065,17 +1065,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr224curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr224curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr224curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr224curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr224curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr224curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1099,8 +1099,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR224-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR224-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR224-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR224-20250117-1.jpg"
     ]
   },
   {
@@ -1113,17 +1113,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr168curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr168curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr168curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr168curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr168curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr168curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1147,8 +1147,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR168-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR168-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR168-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR168-20250117-1.jpg"
     ]
   },
   {
@@ -1161,17 +1161,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr251curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr251curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr251curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr251curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr251curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr251curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1195,8 +1195,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR251-20250118-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR251-20250118-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR251-20250118-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR251-20250118-1.jpg"
     ]
   },
   {
@@ -1209,17 +1209,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr180curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr180curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr180curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr180curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr180curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr180curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1243,8 +1243,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR180-20250118-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR180-20250118-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR180-20250118-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR180-20250118-1.jpg"
     ]
   },
   {
@@ -1257,17 +1257,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr241curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr241curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr241curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr241curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr241curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr241curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1291,8 +1291,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR241-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR241-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR241-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR241-20250117-1.jpg"
     ]
   },
   {
@@ -1305,17 +1305,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr192curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr192curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr192curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr192curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr192curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr192curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1339,8 +1339,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR192-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR192-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR192-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR192-20250117-1.jpg"
     ]
   },
   {
@@ -1353,17 +1353,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr197curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr197curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr197curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr197curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr197curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr197curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1387,8 +1387,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR197-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR197-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR197-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR197-20250117-1.jpg"
     ]
   },
   {
@@ -1401,17 +1401,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr207curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr207curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr207curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr207curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr207curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr207curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1435,8 +1435,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR207-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR207-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR207-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR207-20250117-1.jpg"
     ]
   },
   {
@@ -1449,17 +1449,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr252curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr252curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr252curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr252curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr252curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr252curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1483,8 +1483,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR252-20250118-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR252-20250118-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR252-20250118-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR252-20250118-1.jpg"
     ]
   },
   {
@@ -1497,17 +1497,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr182curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr182curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr182curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr182curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr182curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr182curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1531,8 +1531,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR182-20250118-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR182-20250118-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR182-20250118-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR182-20250118-1.jpg"
     ]
   },
   {
@@ -1545,17 +1545,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr188curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr188curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr188curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr188curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr188curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr188curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1579,8 +1579,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR188-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR188-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR188-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR188-20250117-1.jpg"
     ]
   },
   {
@@ -1593,17 +1593,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr193curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr193curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr193curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr193curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr193curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr193curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1627,8 +1627,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR193-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR193-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR193-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR193-20250117-1.jpg"
     ]
   },
   {
@@ -1641,17 +1641,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr212curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr212curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr212curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr212curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr212curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr212curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1675,8 +1675,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR212-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR212-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR212-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR212-20250117-1.jpg"
     ]
   },
   {
@@ -1689,17 +1689,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr177curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr177curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr177curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr177curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr177curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr177curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1723,8 +1723,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR177-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR177-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR177-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR177-20250117-1.jpg"
     ]
   },
   {
@@ -1737,17 +1737,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr215curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr215curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr215curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr215curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr215curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr215curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1771,8 +1771,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR215-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR215-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR215-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR215-20250117-1.jpg"
     ]
   },
   {
@@ -1785,17 +1785,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr209curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr209curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr209curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr209curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr209curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr209curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1819,8 +1819,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR209-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR209-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR209-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR209-20250117-1.jpg"
     ]
   },
   {
@@ -1833,17 +1833,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr217curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr217curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr217curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr217curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr217curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr217curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1867,8 +1867,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR217-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR217-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR217-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR217-20250117-1.jpg"
     ]
   },
   {
@@ -1881,17 +1881,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr228curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr228curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr228curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr228curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr228curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr228curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1915,8 +1915,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR228-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR228-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR228-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR228-20250117-1.jpg"
     ]
   },
   {
@@ -1929,17 +1929,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr218curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr218curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr218curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr218curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr218curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr218curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -1963,8 +1963,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR218-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR218-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR218-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR218-20250117-1.jpg"
     ]
   },
   {
@@ -1977,17 +1977,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr191curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr191curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr191curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr191curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr191curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr191curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2011,8 +2011,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR191-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR191-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR191-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR191-20250117-1.jpg"
     ]
   },
   {
@@ -2025,17 +2025,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr216curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr216curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr216curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr216curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr216curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr216curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2073,17 +2073,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr195curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr195curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr195curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr195curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr195curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr195curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2107,8 +2107,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR195-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR195-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR195-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR195-20250117-1.jpg"
     ]
   },
   {
@@ -2121,17 +2121,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr236curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr236curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr236curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr236curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr236curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr236curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2155,8 +2155,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR236-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR236-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR236-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR236-20250117-1.jpg"
     ]
   },
   {
@@ -2169,17 +2169,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr205curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr205curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr205curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr205curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr205curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr205curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2203,8 +2203,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR205-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR205-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR205-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR205-20250117-1.jpg"
     ]
   },
   {
@@ -2217,17 +2217,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr219curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr219curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr219curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr219curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr219curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr219curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2251,8 +2251,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR219-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR219-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR219-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR219-20250117-1.jpg"
     ]
   },
   {
@@ -2265,17 +2265,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr250curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr250curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr250curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr250curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr250curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr250curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2299,8 +2299,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR250-20250118-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR250-20250118-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR250-20250118-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR250-20250118-1.jpg"
     ]
   },
   {
@@ -2313,17 +2313,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr230curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr230curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr230curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr230curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr230curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr230curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2347,8 +2347,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR230-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR230-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR230-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR230-20250117-1.jpg"
     ]
   },
   {
@@ -2361,17 +2361,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr238curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr238curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr238curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr238curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr238curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr238curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2395,8 +2395,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR238-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR238-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR238-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR238-20250117-1.jpg"
     ]
   },
   {
@@ -2409,17 +2409,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr240curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr240curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr240curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr240curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr240curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr240curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2443,8 +2443,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR240-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR240-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR240-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR240-20250117-1.jpg"
     ]
   },
   {
@@ -2457,17 +2457,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr242curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr242curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr242curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr242curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr242curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr242curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2491,8 +2491,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR242-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR242-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR242-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR242-20250117-1.jpg"
     ]
   },
   {
@@ -2505,17 +2505,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr245curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr245curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr245curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr245curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr245curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr245curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2539,8 +2539,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR245-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR245-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR245-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR245-20250117-1.jpg"
     ]
   },
   {
@@ -2553,17 +2553,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr244curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr244curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr244curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr244curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr244curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr244curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2587,8 +2587,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR244-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR244-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR244-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR244-20250117-1.jpg"
     ]
   },
   {
@@ -2601,17 +2601,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr234curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr234curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr234curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr234curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr234curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr234curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2635,8 +2635,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR234-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR234-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR234-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR234-20250117-1.jpg"
     ]
   },
   {
@@ -2649,17 +2649,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr175curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr175curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr175curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr175curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr175curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr175curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2683,10 +2683,10 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR175-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR175-20250117-1.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR175-20250117-2.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR175-20250117-3.jpg"
+      "assets/img/arvore-page/tanimbuca/GR175-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR175-20250117-1.jpg",
+      "assets/img/arvore-page/tanimbuca/GR175-20250117-2.jpg",
+      "assets/img/arvore-page/tanimbuca/GR175-20250117-3.jpg"
     ]
   },
   {
@@ -2699,17 +2699,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr187curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr187curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr187curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr187curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr187curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr187curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2733,8 +2733,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR187-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR187-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR187-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR187-20250117-1.jpg"
     ]
   },
   {
@@ -2747,17 +2747,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr200curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr200curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr200curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr200curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr200curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr200curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2781,8 +2781,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR200-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR200-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR200-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR200-20250117-1.jpg"
     ]
   },
   {
@@ -2795,17 +2795,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr171curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr171curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr171curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr171curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr171curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr171curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2829,8 +2829,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR171-20250118-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR171-20250118-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR171-20250118-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR171-20250118-1.jpg"
     ]
   },
   {
@@ -2843,17 +2843,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr255curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr255curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr255curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr255curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr255curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr255curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2877,8 +2877,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR255-20250118-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR255-20250118-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR255-20250118-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR255-20250118-1.jpg"
     ]
   },
   {
@@ -2891,17 +2891,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr256curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr256curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr256curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr256curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr256curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr256curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2925,8 +2925,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR256-20250118-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR256-20250118-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR256-20250118-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR256-20250118-1.jpg"
     ]
   },
   {
@@ -2939,17 +2939,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr186curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr186curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr186curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr186curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr186curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr186curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -2973,8 +2973,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR186-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR186-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR186-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR186-20250117-1.jpg"
     ]
   },
   {
@@ -2987,17 +2987,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr204curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr204curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr204curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr204curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr204curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr204curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -3021,8 +3021,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR204-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR204-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR204-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR204-20250117-1.jpg"
     ]
   },
   {
@@ -3035,17 +3035,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr253curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr253curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr253curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr253curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr253curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr253curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -3069,10 +3069,10 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/IMG_1285.jpg",
-      "/assets/img/arvore-page/tanimbuca/IMG_1287.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR253-20250118-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR253-20250118-1.jpg"
+      "assets/img/arvore-page/tanimbuca/IMG_1285.jpg",
+      "assets/img/arvore-page/tanimbuca/IMG_1287.jpg",
+      "assets/img/arvore-page/tanimbuca/GR253-20250118-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR253-20250118-1.jpg"
     ]
   },
   {
@@ -3085,17 +3085,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr257curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr257curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr257curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr257curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr257curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr257curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -3119,8 +3119,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR257-20250118-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR257-20250118-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR257-20250118-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR257-20250118-1.jpg"
     ]
   },
   {
@@ -3133,17 +3133,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr169curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr169curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr169curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr169curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr169curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr169curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -3167,8 +3167,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR169-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR169-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR169-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR169-20250117-1.jpg"
     ]
   },
   {
@@ -3181,17 +3181,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr183curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr183curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr183curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr183curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr183curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr183curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -3215,8 +3215,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR183-20250118-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR183-20250118-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR183-20250118-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR183-20250118-1.jpg"
     ]
   },
   {
@@ -3229,17 +3229,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr198curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr198curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr198curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr198curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr198curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr198curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -3263,8 +3263,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR198-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR198-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR198-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR198-20250117-1.jpg"
     ]
   },
   {
@@ -3277,17 +3277,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr173curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr173curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr173curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr173curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr173curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr173curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -3311,8 +3311,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR173-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR173-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR173-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR173-20250117-1.jpg"
     ]
   },
   {
@@ -3325,17 +3325,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr254curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr254curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr254curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr254curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr254curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr254curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -3359,8 +3359,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR254-20250118-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR254-20250118-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR254-20250118-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR254-20250118-1.jpg"
     ]
   },
   {
@@ -3373,17 +3373,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr220curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr220curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr220curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr220curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr220curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr220curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -3407,10 +3407,10 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR220-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR220-20250117-1.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR220-20250117-2.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR220-20250117-3.jpg"
+      "assets/img/arvore-page/tanimbuca/GR220-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR220-20250117-1.jpg",
+      "assets/img/arvore-page/tanimbuca/GR220-20250117-2.jpg",
+      "assets/img/arvore-page/tanimbuca/GR220-20250117-3.jpg"
     ]
   },
   {
@@ -3423,17 +3423,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr231curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr231curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr231curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr231curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr231curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr231curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -3457,8 +3457,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR231-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR231-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR231-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR231-20250117-1.jpg"
     ]
   },
   {
@@ -3471,17 +3471,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr227curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr227curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr227curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr227curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr227curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr227curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -3505,8 +3505,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR227-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR227-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR227-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR227-20250117-1.jpg"
     ]
   },
   {
@@ -3519,17 +3519,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr184curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr184curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr184curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr184curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr184curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr184curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -3553,8 +3553,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR184-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR184-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR184-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR184-20250117-1.jpg"
     ]
   },
   {
@@ -3567,17 +3567,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -3612,17 +3612,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr170curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr170curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr170curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr170curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr170curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr170curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -3646,8 +3646,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR170-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR170-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR170-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR170-20250117-1.jpg"
     ]
   },
   {
@@ -3660,17 +3660,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr247curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr247curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr247curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr247curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr247curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr247curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -3694,8 +3694,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR247-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR247-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR247-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR247-20250117-1.jpg"
     ]
   },
   {
@@ -3708,17 +3708,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr233curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr233curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr233curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr233curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr233curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr233curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -3742,7 +3742,7 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR233-20250117-0.jpg"
+      "assets/img/arvore-page/tanimbuca/GR233-20250117-0.jpg"
     ]
   },
   {
@@ -3755,17 +3755,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr185curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr185curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr185curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr185curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr185curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr185curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -3789,8 +3789,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR185-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR185-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR185-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR185-20250117-1.jpg"
     ]
   },
   {
@@ -3803,17 +3803,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr202curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr202curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr202curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr202curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr202curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr202curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -3837,8 +3837,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR202-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR202-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR202-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR202-20250117-1.jpg"
     ]
   },
   {
@@ -3851,17 +3851,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr174curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr174curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr174curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr174curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr174curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr174curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -3885,8 +3885,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR174-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR174-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR174-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR174-20250117-1.jpg"
     ]
   },
   {
@@ -3899,17 +3899,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr237curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr237curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr237curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr237curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr237curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr237curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -3933,8 +3933,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR237-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR237-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR237-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR237-20250117-1.jpg"
     ]
   },
   {
@@ -3947,17 +3947,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr201curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr201curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr201curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr201curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr201curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr201curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -3981,8 +3981,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR201-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR201-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR201-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR201-20250117-1.jpg"
     ]
   },
   {
@@ -3995,17 +3995,17 @@ export const dados = [
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr199curiosidade1.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr199curiosidade1.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr199curiosidade2.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr199curiosidade2.jpg"
       },
       {
         "titulo": "",
         "texto": "",
-        "imagem": "/assets/img/arvore-page/curiosidades/gr199curiosidade3.jpg"
+        "imagem": "assets/img/arvore-page/curiosidades/gr199curiosidade3.jpg"
       }
     ],
     "pergunta": "",
@@ -4029,8 +4029,8 @@ export const dados = [
     ],
     "frasesecreta": "",
     "imagelist": [
-      "/assets/img/arvore-page/tanimbuca/GR199-20250117-0.jpg",
-      "/assets/img/arvore-page/tanimbuca/GR199-20250117-1.jpg"
+      "assets/img/arvore-page/tanimbuca/GR199-20250117-0.jpg",
+      "assets/img/arvore-page/tanimbuca/GR199-20250117-1.jpg"
     ]
   }
 ]
